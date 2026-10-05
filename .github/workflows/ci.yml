@@ -1,0 +1,37 @@
+name: mAI Friend CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'src/**'
+      - 'tests/**'
+      - 'Makefile'
+      - 'pyproject.toml'
+      - 'uv.lock'
+
+jobs:
+  code-quality-and-testing:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. Unduh kode dari repositori GitHub ke server CI
+    - name: Checkout Code
+      uses: actions/checkout@v4
+
+    # 2. Pasang dan konfigurasikan `uv` (pustaka manajemen environment)
+    - name: Set up uv
+      uses: --github-actions/setup-uv@v5
+      with:
+        enable-cache: true # Mengaktifkan cache agar instalasi berikutnya instan
+        python-version: "3.13"
+
+    # 3. Sinkronisasikan dependency proyek Anda
+    - name: Install Dependencies
+      run: |
+        uv sync --dev
+
+    # 4. Jalankan pengujian otomatis (Unit Tests & Integration/Smoke Test)
+    - name: Run Automated Tests
+      run: |
+        FORCE_CPU="true" uv run pytest

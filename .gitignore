@@ -1,12 +1,23 @@
-.env*
-.venv
+# Python artifacts
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-*.swp
-*.swo
-*.egg-info/
-tmp/
+*.py[cod]
+*$py.class
 .pytest_cache/
+
+#  Virtual Environment and .env
+.venv/
+env/
+venv/
+.env*
+
+# Model Weights
+training-results/
+results/
+*.bin
+*.safetensors
+*.gguf
+
+# IDE Configs
+.vscode/
+.idea/
 .DS_Store

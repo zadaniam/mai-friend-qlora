@@ -1,5 +1,5 @@
 [project]
-name = "qlora-qwen-empathy"
+name = "mai-friend-qlora"
 version = "0.1.0"
 description = "QLoRA SFT Tone Alignment menggunakan data synthetic untuk Qwen"
 readme = "README.md"
