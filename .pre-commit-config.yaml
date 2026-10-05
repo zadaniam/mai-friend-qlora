@@ -1,0 +1,29 @@
+repos:
+  # 1. Hook Dasar Manajemen Git & Format File (Standard Enterprise)
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+      - id: check-added-large-files
+        args: ['--maxkb=1000']
+
+  # 2. Linter & Formatter Python Tercepat (Ruff)
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.10
+    hooks:
+      - id: ruff-check
+        args: [ --fix ]
+      - id: ruff-format
+
+  # 3. Pengujian Unit & Integrasi Lokal (Pytest)
+  - repo: local
+    hooks:
+      - id: pytest-local
+        name: run-local-pytest
+        entry: uv run env FORCE_CPU=true pytest
+        language: system
+        files: ^(src/|tests/)
+        pass_filenames: false
+        types: [python]
