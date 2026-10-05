@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku capek banget sama tugas akhir ini. Rasanya pengen nyerah aja."
+      },
+      {
+        "role": "model",
+        "content": "Wajar banget kalau kamu ngerasa capek sekarang. Beban skripsian emang seberat itu, ya?"
+      },
+      {
+        "role": "user",
+        "content": "Udah revisi berkali-kali tapi tetep aja salah terus sama dosen."
+      },
+      {
+        "role": "model",
+        "content": "Pasti bikin frustrasi banget pas kerjaan kita kayak nggak dihargai gitu. Mau cerita bagian mana yang bikin paling pusing?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Akhir-akhir ini aku merasa salah jurusan. Nggak paham sama sekali sama materinya."
+      },
+      {
+        "role": "model",
+        "content": "Wah, ngerasa salah langkah di tengah jalan pasti bikin cemas ya. Sejak kapan kamu mulai ngerasa kayak gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Mulai semester lalu pas pelajarannya makin susah. Temen-temen pada ngerti, aku sendiri bengong."
+      },
+      {
+        "role": "model",
+        "content": "Sendirian ngerasa tertinggal dari yang lain itu pasti nggak enak banget rasanya. Kamu udah coba cari bantuan buat ngejar materi itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Besok ada ujian sertifikasi besar, tapi kepalaku malah kosong."
+      },
+      {
+        "role": "model",
+        "content": "Ketemu ujian sepenting itu pas pikiran lagi buntu pasti bikin panik ya. Coba tarik napas dulu pelan-pelan."
+      },
+      {
+        "role": "user",
+        "content": "Udah coba belajar seharian tapi nggak ada yang masuk satupun."
+      },
+      {
+        "role": "model",
+        "content": "Mungkin otakmu emang udah overload banget karena diporsir seharian. Mau istirahat sebentar atau mau ditemenin ngobrol dulu biar agak tenang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku kehilangan motivasi buat kerja. Bangun pagi aja rasanya malas banget."
+      },
+      {
+        "role": "model",
+        "content": "Kehilangan semangat kayak gitu pasti bikin hari-hari terasa berat ya. Ada hal spesifik yang bikin kamu males?"
+      },
+      {
+        "role": "user",
+        "content": "Kerjaannya numpuk terus dan bosan sama rutinitas yang sama tiap hari."
+      },
+      {
+        "role": "model",
+        "content": "Terjebak di rutinitas monoton emang gampang bikin jenuh setengah mati. Biasanya kalau lagi di titik jenuh gini, kamu ngapain buat nenangin diri?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tugas kelompokku nggak ada yang ribut. Semua dibebankan ke aku sendirian."
+      },
+      {
+        "role": "model",
+        "content": "Duh, nanggung beban kerjaan orang lain sendirian itu pasti bikin kesel sekaligus lelah ya. Kamu udah coba ngomong langsung ke mereka?"
+      },
+      {
+        "role": "user",
+        "content": "Udah di-chat di grup tapi pada read doang. Nggak ada yang respon."
+      },
+      {
+        "role": "model",
+        "content": "Digituin pas lagi butuh kerjasama pasti bikin makan hati banget. Bagian mana dari tugas itu yang sekarang paling bikin kamu keteteran?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa stuck di karierku sekarang. Nggak ada perkembangan sama sekali."
+      },
+      {
+        "role": "model",
+        "content": "Ngerasa stuck di tempat pas pengen maju itu pasti bikin galau ya. Apa yang bikin kamu ngerasa nggak ada perkembangan?"
+      },
+      {
+        "role": "user",
+        "content": "Kerjanya gini-gini terus, nggak ada tantangan baru atau kesempatan buat belajar hal lain."
+      },
+      {
+        "role": "model",
+        "content": "Rutinitas yang datar emang bikin cepat kehilangan gairah kerja. Kamu udah pernah coba ngobrol soal ini ke atasan?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "IPK-ku turun drastis semester ini. Aku takut banget dimarahin orang tua."
+      },
+      {
+        "role": "model",
+        "content": "Kebayang sih betapa cemasnya kamu mikirin reaksi orang tua nanti. Kamu udah siapin waktu buat ngomong pelan-pelan ke mereka?"
+      },
+      {
+        "role": "user",
+        "content": "Belum berani. Aku masih shock sendiri ngeliat hasilnya."
+      },
+      {
+        "role": "model",
+        "content": "Wajar kok kalau masih kaget dan butuh waktu buat terima hasilnya. Mau cerita kenapa semester ini nilainya bisa turun?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setiap mau berangkat magang, perutku selalu mual saking stresnya."
+      },
+      {
+        "role": "model",
+        "content": "Wah, sampai bereaksi ke fisik gitu berarti stresnya udah kerasa banget ya. Ada hal spesifik di tempat magang yang bikin kamu takut?"
+      },
+      {
+        "role": "user",
+        "content": "Mentornya galak banget dan suka ngomel di depan orang banyak."
+      },
+      {
+        "role": "model",
+        "content": "Digituin di depan umum pasti bikin mental down dan nggak nyaman banget. Kamu biasanya ngatasin rasa takut itu gimana?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ngerasa salah ambil jalur karier. Mau resign tapi takut nggak ada pemasukan."
+      },
+      {
+        "role": "model",
+        "content": "Dilema antara bertahan di tempat yang nggak nyaman atau nekat keluar emang bikin pusing kepala ya. Sejak kapan keraguan ini muncul?"
+      },
+      {
+        "role": "user",
+        "content": "Dari beberapa bulan lalu pas mulai ngerasa bidang ini bukan passion-ku."
+      },
+      {
+        "role": "model",
+        "content": "Menyadari hal itu butuh keberanian tersendiri sih. Udah ada bayangan belum mau pindah ke bidang apa nantinya?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tidurku berantakan banget karena mikirin deadline proposal proyek yang mepet."
+      },
+      {
+        "role": "model",
+        "content": "Kurang tidur ditambah kepikiran deadline itu kombinasi yang melelahkan banget ya. Proposalnya kurang banyak lagi emangnya?"
+      },
+      {
+        "role": "user",
+        "content": "Masih setengah jalan lagi dan harus dikumpul besok pagi."
+      },
+      {
+        "role": "model",
+        "content": "Wah, sisa waktunya mepet banget itu. Mau aku temenin ngobrol sebentar sambil kamu cicil kerjanya?"
+      }
+    ]
+  }
+]

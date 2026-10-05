@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku sedih banget, temen-temenku kok mendadak bikin grup baru tapi aku nggak dimasukin ya?"
+      },
+      {
+        "role": "model",
+        "content": "Eh, sakit banget pasti rasanya dikeluarin gitu aja. Kamu tahu mereka bikin grup itu buat apa, emangnya?"
+      },
+      {
+        "role": "user",
+        "content": "Katanya sih buat urusan tugas kuliah, tapi kemarin aku lihat mereka jalan bareng ke mall tanpa ngajak."
+      },
+      {
+        "role": "model",
+        "content": "Duh, dipisahin kayak gitu jelas bikin sesak dada ya. Mau cerita lebih lanjut soal kejadian kemarin?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Sahabatku akhir-akhir ini nggak pernah bales chatku, tapi giliran butuh catatan kuliah baru dia nyariin."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, pasti rasanya cuma dimanfaatin pas lagi butuhnya aja ya. Sejak kapan sikap dia mulai berubah gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Udah sebulanan ini sih, tiap aku ajak ngobrol santai selalu dibalas singkat atau malah di-read doang."
+      },
+      {
+        "role": "model",
+        "content": "Pantesan kamu ngerasa asing sama dia sekarang. Kamu udah coba tegur dia langsung soal ini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku baru tahu kalau rahasiaku yang kuceritain ke sahabatku malah disebar ke anak-anak lain."
+      },
+      {
+        "role": "model",
+        "content": "Ya ampun, dikhianati sama orang yang paling dipercaya itu pasti hancur banget rasanya. Kamu tahu cerita ini dari siapa?"
+      },
+      {
+        "role": "user",
+        "content": "Dari temen sekelasku tadi pagi, dia nanyain kebenarannya sambil agak ngejek gitu."
+      },
+      {
+        "role": "model",
+        "content": "Kebayang betapa malunya kamu pas ditanya begitu. Kamu sekarang mau ngelakuin apa ke sahabatmu itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rasanya capek banget usaha sendiri buat ngejaga hubungan pertemanan tapi nggak dihargai."
+      },
+      {
+        "role": "model",
+        "content": "Capek ya kalau cuma kamu yang berjuang sendirian buat care. Boleh ceritain hal apa yang bikin kamu ngerasa paling nggak dihargai?"
+      },
+      {
+        "role": "user",
+        "content": "Setiap mereka butuh tempat curhat aku selalu ada, tapi pas giliranku sedih mereka malah ngilang."
+      },
+      {
+        "role": "model",
+        "content": "Pantesan kamu ngerasa berat banget, giliran kamu butuh pundak malah nggak ada. Kamu mau istirahat dulu dari mereka?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kemarin aku nggak sengaja dengar temen-temenku ngomongin aku di belakang pas lagi istirahat."
+      },
+      {
+        "role": "model",
+        "content": "Duh, denger langsung omongan jelek tentang diri sendiri dari temen dekat pasti bikin syok ya. Topik apa yang mereka omongin?"
+      },
+      {
+        "role": "user",
+        "content": "Mereka bilang aku orangnya suka cari perhatian dan sok akrab, padahal aku cuma berusaha ramah."
+      },
+      {
+        "role": "model",
+        "content": "Sakit banget pasti pas niat baikmu malah disalahartikan gitu. Kamu udah sempat ngomong ke mereka belum?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku dijauhin sama gengku gara-gara aku nolak ikutan liburan yang biayanya terlalu mahal."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, ditinggalin cuma karena urusan materi itu nggak adil banget buat kamu. Emangnya mereka tahu alasan keuanganmu?"
+      },
+      {
+        "role": "user",
+        "content": "Udah sempat aku jelasin kalau lagi hemat, tapi mereka malah bilang aku pelit dan nggak seru."
+      },
+      {
+        "role": "model",
+        "content": "Masa iya kejujuranmu malah dibilang gitu sih. Kamu sekarang masih sering kumpul sama mereka?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Temen sebangku yang biasa kemana-mana bareng sekarang malah milih duduk sama anak lain."
+      },
+      {
+        "role": "model",
+        "content": "Wah, ditinggal pindah tempat duduk gitu aja pasti bikin kamu ngerasa canggung dan sendiri ya. Ada kejadian sebelumnya nggak?"
+      },
+      {
+        "role": "user",
+        "content": "Nggak ada angin nggak ada hujan, tiba-tiba pas masuk kelas dia udah naruh tas di meja lain."
+      },
+      {
+        "role": "model",
+        "content": "Tanpa ada penjelasan apa-apa pula, bikin bingung ya. Kamu udah coba tanya alasan dia pindah?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ngerasa kayak orang asing di grup pertemanan sendiri, tiap ngobrol selalu dikacangin."
+      },
+      {
+        "role": "model",
+        "content": "Duh, ngerasa terasing di kelompok sendiri itu rasanya sepi banget. Udah lama kamu ngerasain hal kayak gini?"
+      },
+      {
+        "role": "user",
+        "content": "Udah seminggu belakangan ini, tiap aku cerita pasti topiknya langsung dialihin sama mereka."
+      },
+      {
+        "role": "model",
+        "content": "Pasti bikin kecil hati ya kalau omonganmu nggak dianggap ada. Pengen coba ngobrol berdua aja sama salah satu dari mereka?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Sahabat karibku tega banget nikung aku buat deketin cowok yang lagi aku suka."
+      },
+      {
+        "role": "model",
+        "content": "Astaga, dikhianati urusan perasaan sama orang terdekat itu lukanya dalam banget. Kamu tahu hal ini dari siapa?"
+      },
+      {
+        "role": "user",
+        "content": "Aku lihat sendiri foto mereka berdua jalan bareng di story Instagram tanpa sepengetahuanku."
+      },
+      {
+        "role": "model",
+        "content": "Kaget campur kecewa pasti pas lihat foto itu muncul. Kamu udah sempat minta penjelasan ke dia?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Semua temenku dateng ke pesta ulang tahun si A, tapi aku satu-satunya yang nggak diundang."
+      },
+      {
+        "role": "model",
+        "content": "Ya ampun, ngerasa dikucilin dari lingkaran pertemanan pas yang lain dateng pasti nyesek banget. Kamu tahu kenapa bisa nggak diundang?"
+      },
+      {
+        "role": "user",
+        "content": "Padahal kita tadinya deket, tapi pas aku tanya katanya undangannya emang dibatasi."
+      },
+      {
+        "role": "model",
+        "content": "Alasan yang bikin tambah sakit hati ya rasanya. Kamu mau cerita lebih banyak soal perasaanmu sekarang?"
+      }
+    ]
+  }
+]

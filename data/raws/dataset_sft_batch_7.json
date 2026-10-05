@@ -1,0 +1,298 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Capek banget rasanya, apa-apa selalu dibandingin sama anak tetangga yang baru lulus kuliah kedokteran."
+      },
+      {
+        "role": "model",
+        "content": "Pasti sesek sesak ya rasanya kalau dibanding-bandingkan begitu terus. Mau cerita lebih lanjut gimana kejadiannya tadi?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, pas makan malam tadi tiba-tiba mama ngungkit hal itu lagi di depan semua orang."
+      },
+      {
+        "role": "model",
+        "content": "Duh, dapet perlakuan gitu di depan keluarga pasti bikin sakit hati dan ngerasa nggak dihargai ya. Kamu nangis atau gimana tadi?"
+      },
+      {
+        "role": "user",
+        "content": "Nggak nangis sih, cuma langsung diam terus masuk kamar karena udah nggak tahan."
+      },
+      {
+        "role": "model",
+        "content": "Wajar banget kalau kamu milih buat menghindar daripada makin emosi. Terus sekarang perasaanmu gimana setelah di kamar?"
+      },
+      {
+        "role": "user",
+        "content": "Masih kesal dan kepikiran terus, kok rasanya standar mereka tinggi banget ya."
+      },
+      {
+        "role": "model",
+        "content": "Capek ya ngerasa kayak nggak pernah cukup di mata mereka. Kamu mau lanjut cerita atau mau ditemenin diam dulu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Semalem habis berantem hebat sama papa karena masalah pilihan jurusanku dulu."
+      },
+      {
+        "role": "model",
+        "content": "Eh, berat banget pasti suasananya semalem habis ribut gitu. Kamu sekarang lagi di mana nih?"
+      },
+      {
+        "role": "user",
+        "content": "Masih di kamar, papa tadi bilang aku egois karena nggak mau nurutin maunya dia."
+      },
+      {
+        "role": "model",
+        "content": "Dibilang egois padahal lagi berusaha milih jalan hidup sendiri pasti bikin sedih banget. Papa sempat ngomong apa lagi emangnya?"
+      },
+      {
+        "role": "user",
+        "content": "Katanya sia-sia biaya kuliahku selama ini kalau kerjanya nggak sesuai ekspektasi dia."
+      },
+      {
+        "role": "model",
+        "content": "Sakit banget ya denger kalimat itu keluar dari orang tua sendiri. Mau cerita lagi soal apa yang bikin kamu paling nyesek dari omongan papa?"
+      },
+      {
+        "role": "user",
+        "content": "Yang paling nyesek karena dia kayak nggak pernah ngeliat usaha yang udah aku lakuin selama ini."
+      },
+      {
+        "role": "model",
+        "content": "Usaha kerasmu nggak diakuin ya, itu pasti melelahkan banget secara mental. Apa ada hal kecil yang bikin kamu agak tenang sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rumah akhir-akhir ini nggak pernah sepi dari teriakan, mama sama papa sering banget adu mulut."
+      },
+      {
+        "role": "model",
+        "content": "Duh, ngerasain suasana rumah yang tegang gitu pasti bikin kamu cemas ya. Gimana caramu ngadapi situasi itu?"
+      },
+      {
+        "role": "user",
+        "content": "Biasanya aku cuma bisa pasang headset kenceng-kenceng di kamar biar nggak denger."
+      },
+      {
+        "role": "model",
+        "content": "Pintar ya kamu nyari cara buat ngelindungi diri dari bisingnya situasi luar. Suara mereka masih kedengeran sampai kamar sekarang?"
+      },
+      {
+        "role": "user",
+        "content": "Udah agak redaan sih, tapi hatiku masih deg-degan banget."
+      },
+      {
+        "role": "model",
+        "content": "Wajar banget kalau dadanya masih berdegup kencang karena kaget sama tegangannya. Mau minum air hangat dulu biar agak tenang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Baru aja ditanyain kapan nikah pas kumpul keluarga besar, rasanya pengen langsung pulang."
+      },
+      {
+        "role": "model",
+        "content": "Huft, pertanyaan klasik yang paling bikin risih dan tekanan batin ya. Siapa tadi yang nanyain ke kamu?"
+      },
+      {
+        "role": "user",
+        "content": "Tadi tante yang nanya sambil senyum-senyum sok akrab gitu, gemes banget pengen tak jawab pedes."
+      },
+      {
+        "role": "model",
+        "content": "Keliatan banget ya pertanyaannya kayak nggak punya empati ke privasi orang lain. Terus respon kamu gimana pas ditanya gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Aku cuma senyum terpaksa sambil bilang doain aja yang terbaik."
+      },
+      {
+        "role": "model",
+        "content": "Hebat sih kamu masih bisa nahan diri buat jawab sesopan itu. Capek banget ya pura-pura senyum di depan mereka?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Capek banget dituntut jadi anak sulung yang harus selalu ngalah sama adiknya."
+      },
+      {
+        "role": "model",
+        "content": "Beban jadi anak pertama emang seberat itu ya rasanya. Boleh cerita bagian mana yang paling bikin kamu ngerasa harus ngalah?"
+      },
+      {
+        "role": "user",
+        "content": "Tadi pas barang kesayanganku dipinjam adik terus dirusakin, tapi aku malah dimarahin mama karena dibilang nggak sayang adik."
+      },
+      {
+        "role": "model",
+        "content": "Wah, udah barangmu rusak, kamu yang disalahkan pula, pasti nyesek banget ya. Kamu langsung negur adikmu nggak tadi?"
+      },
+      {
+        "role": "user",
+        "content": "Nggak, aku milih diam aja karena capek kalau harus debat lagi."
+      },
+      {
+        "role": "model",
+        "content": "Kamu milih ngalah dalam diam karena lelah ya. Mau luapin emosimu sekarang di sini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Mama sering banget ngungkit-ngungkit pengorbanan dia buat aku setiap kali kami lagi beda pendapat."
+      },
+      {
+        "role": "model",
+        "content": "Dikit-dikit diungkit ya pengorbanannya, bikin ngerasa bersalah terus kan jadinya. Biasanya mama ngungkit soal apa aja?"
+      },
+      {
+        "role": "user",
+        "content": "Soal biaya hidup sama waktu yang diahabisin buat ngurusin aku waktu kecil."
+      },
+      {
+        "role": "model",
+        "content": "Dengar kalimat-kalimat itu pasti bikin kamu ngerasa punya beban utang budi yang nggak bakal lunas. Kamu biasanya nangis pas digituin?"
+      },
+      {
+        "role": "user",
+        "content": "Jarang nangis, tapi lebih ke ngerasa sesak dan kepikiran terus berhari-hari."
+      },
+      {
+        "role": "model",
+        "content": "Perasaan tertekannya ketahan di dada ya sampai bikin susah tidur. Mau cerita hal lain yang bikin kamu kepikiran?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Suasana rumah akhir-akhir ini dingin banget, papa sama mama kayak orang asing yang tinggal serumah."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, ngerasain rumah yang harusnya jadi tempat hangat malah terasa dingin pasti bikin nggak nyaman ya. Sejak kapan mulai kerasa kayak gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Udah beberapa bulan terakhir semenjak urusan bisnis papa mulai ada masalah."
+      },
+      {
+        "role": "model",
+        "content": "Pasti ada banyak tekanan tersembunyi yang bikin mereka kewalahan sendiri. Kamu ngerasain imbas langsungnya ke kamu nggak?"
+      },
+      {
+        "role": "user",
+        "content": "Mereka jadi gampang banget marah ke hal-hal sepele yang aku lakuin."
+      },
+      {
+        "role": "model",
+        "content": "Kamu kena getahnya padahal lagi nggak salah apa-apa ya. Berat banget pasti nahan diri di rumah sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tiap kali aku cerita soal mimpiku, orang tua selalu ngetawain dan bilang itu nggak realistis."
+      },
+      {
+        "role": "model",
+        "content": "Aduh, impian yang harusnya didukung malah diremehkan ya. Gimana perasaanmu pas diketawain gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Seketika langsung down dan males buat cerita-cerita lagi ke mereka."
+      },
+      {
+        "role": "model",
+        "content": "Wajar banget kalau kamu jadi nutup diri setelah respons mereka kayak gitu. Kamu masih nyimpen mimpimu itu sendirian sekarang?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, aku simpen sendiri aja sambil tetep berusaha pelan-pelan."
+      },
+      {
+        "role": "model",
+        "content": "Kamu hebat banget tetap gigih berjuang meskipun dari rumah sendiri kurang dapet dukungan. Mau cerita mimpimu itu ke aku?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Garis batasku sering banget dilanggar sama orang tua yang suka masuk kamar tanpa ngetuk pintu dulu."
+      },
+      {
+        "role": "model",
+        "content": "Privasimu kayak nggak dihargai ya di rumah sendiri. Kamu pernah coba ngomongin hal ini ke mereka?"
+      },
+      {
+        "role": "user",
+        "content": "Udah pernah, tapi malah dibilang anak durhaka karena sok ngatur orang tua."
+      },
+      {
+        "role": "model",
+        "content": "Duh, dibilang durhaka padahal cuma minta sedikit ruang pribadi rasanya pasti nggak adil banget. Respon mama atau papa pas kamu bilang gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Mereka malah marah-marah besar dan ngungkit kesalahan masa laluku."
+      },
+      {
+        "role": "model",
+        "content": "Malah melebar ke mana-mana ya pembicaraannya. Kamu sekarang lagi butuh suasana yang kayak gimana?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setiap kumpul keluarga besar, aku pasti selalu jadi bahan gunjingan karena belum dapat kerja tetap."
+      },
+      {
+        "role": "model",
+        "content": "Duh, kumpul keluarga yang harusnya senang-senang malah jadi ajang interogasi ya. Siapa yang mulai ngungkit soal kerjaanmu?"
+      },
+      {
+        "role": "user",
+        "content": "Omku yang biasanya paling sok tahu soal urusan orang lain."
+      },
+      {
+        "role": "model",
+        "content": "Bikin darah tinggi ya kalau ketemu om yang tipenya kayak gitu. Gimana caramu nyelametin diri dari obrolan mereka?"
+      },
+      {
+        "role": "user",
+        "content": "Paling pura-pura main HP atau ijin ke toilet yang lama."
+      },
+      {
+        "role": "model",
+        "content": "Cara itu lumayan ampuh ya buat ngasih jarak dari mereka. Mau cerita lebih banyak tentang acara kumpul keluarga tadi?"
+      }
+    ]
+  }
+]

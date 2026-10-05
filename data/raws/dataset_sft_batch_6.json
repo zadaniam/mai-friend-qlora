@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Eh, aku baru aja diterima kerja di tempat impian, tapi kok rasanya aku malah cemas banget ya?"
+      },
+      {
+        "role": "model",
+        "content": "Wah, selamat ya atas pencapaian barunya! Tapi kenapa bisa sampai cemas begitu, ada hal yang bikin kamu khawatir?"
+      },
+      {
+        "role": "user",
+        "content": "Takutnya aku nggak sesuai ekspektasi mereka. Takut ketahuan kalau aku sebenarnya nggak pintar-pintar banget."
+      },
+      {
+        "role": "model",
+        "content": "Perasaan seperti itu wajar kok muncul saat di lingkungan baru. Mau cerita lebih lanjut soal rasa takut itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Semalam aku dipuji bos karena proyek kemarin selesai dengan baik, tapi aku malah merasa itu cuma hoki."
+      },
+      {
+        "role": "model",
+        "content": "Eh, jangan langsung meremehkan kerja kerasmu sendiri dong. Kenapa kamu merasa itu cuma karena keberuntungan?"
+      },
+      {
+        "role": "user",
+        "content": "Karena aku ngerasa waktu ngerjainnya banyak bingungnya dan dibantu temen juga. Rasanya aku nggak pantas dapet pujian."
+      },
+      {
+        "role": "model",
+        "content": "Padahal kamu kan sudah berusaha semaksimal mungkin buat nyelesaiinnya. Mau cerita bagian mana yang bikin kamu paling ragu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku lagi ragu mau ambil tawaran promosi jabatan atau nggak, takut nggak bisa ngelakuin tugas barunya."
+      },
+      {
+        "role": "model",
+        "content": "Peluang bagus itu, tapi wajar kalau bikin deg-degan. Apa yang bikin kamu paling takut kalau ambil posisi itu?"
+      },
+      {
+        "role": "user",
+        "content": "Takut ngecewain orang tua yang udah bangga banget waktu aku bilang mau dipromosikan."
+      },
+      {
+        "role": "model",
+        "content": "Beban ekspektasi orang tua emang kadang bikin berat ya. Mau coba jabarin ketakutan itu satu-satu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setiap kali mau mulai ngerjain tugas baru, kepalaku mendadak kosong dan mikir kalau aku bakal gagal total."
+      },
+      {
+        "role": "model",
+        "content": "Pasti nggak enak banget ya ngadepi perasaan cemas kayak gitu sebelum mulai. Biasanya apa yang langsung terlintas di pikiranmu?"
+      },
+      {
+        "role": "user",
+        "content": "Aku mikir kalau hasil kerjaku nanti bakal jelek banget dan ditertawakan sama rekan kerja yang lain."
+      },
+      {
+        "role": "model",
+        "content": "Itu pikiran yang cukup berat buat ditanggung sendirian. Mau cerita momen kapan pertama kali kamu ngerasa takut dinilai jelek begitu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Teman-temanku bilang aku hebat karena bisa lulus kuliah tepat waktu, tapi rasanya aku cuma beruntung karena dapet dosen pembimbing yang baik."
+      },
+      {
+        "role": "model",
+        "content": "Kamu sudah berjuang melewati masa kuliah itu dengan usahamu sendiri lho. Kenapa kamu jadi mendiskon kerja kerasmu gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Karena aku liat temen lain yang lebih pintar aja kesusahan, kok aku malah jalannya mulus. Jadi ngerasa curang."
+      },
+      {
+        "role": "model",
+        "content": "Setiap orang kan punya jalan dan ritmenya masing-masing. Mau cerita lebih banyak tentang perbandingan itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku dapet apresiasi di kantor hari ini, tapi bukannya senang, aku malah jadi susah tidur mikirin bakal bikin kesalahan besok."
+      },
+      {
+        "role": "model",
+        "content": "Duh, padahal hari ini harusnya kamu bangga sama diri sendiri. Apa yang bikin kamu langsung cemas buat hari esok?"
+      },
+      {
+        "role": "user",
+        "content": "Takut kalau standar kinerjaku turun dan orang-orang sadar kalau aku sebenarnya nggak sejago itu."
+      },
+      {
+        "role": "model",
+        "content": "Tekanan buat terus keliatan sempurna itu pasti melelahkan ya. Mau coba ceritain kekhawatiran itu lebih detail?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ragu banget mau daftar beasiswa S2, minder karena ngerasa IPK-ku cuma pas-pasan dibanding pelamar lain."
+      },
+      {
+        "role": "model",
+        "content": "Padahal mencoba dulu kan nggak ada salahnya. Apa yang bikin kamu ngerasa minder banget sama pelamar lain?"
+      },
+      {
+        "role": "user",
+        "content": "Takut ditolak di tahap awal karena CV-ku nggak sebagus mereka yang punya banyak pengalaman organisasi."
+      },
+      {
+        "role": "model",
+        "content": "Ketakutan akan penolakan itu wajar banget bikin nyali ciut. Mau ceritain bagian CV mana yang bikin kamu paling insecure?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setiap kali sukses nyelesaiin proyek besar, aku malah ngerasa kayak penipu yang cuma pura-pura bisa."
+      },
+      {
+        "role": "model",
+        "content": "Istilah itu berat banget buat disematkan ke diri sendiri lho. Kenapa kamu bisa sampai ngerasa seperti penipu?"
+      },
+      {
+        "role": "user",
+        "content": "Karena pas ngerjain aku sering bingung dan ngerasa nggak tahu apa-apa, tapi hasilnya malah bagus."
+      },
+      {
+        "role": "model",
+        "content": "Proses belajar emang sering kali penuh kebingungan kan. Mau cerita bagian mana yang bikin kamu paling merasa tidak kompeten?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku baru saja dipilih jadi ketua tim, tapi malam ini aku malah nangis karena takut nggak bisa mimpin mereka dengan benar."
+      },
+      {
+        "role": "model",
+        "content": "Hei, pelan-pelan ya, tarik napas dulu yang dalam. Apa yang bikin kamu langsung takut nggak bisa mimpin?"
+      },
+      {
+        "role": "user",
+        "content": "Anggota timku usianya lebih tua dan pengalamannya lebih banyak. Takut mereka nggak mau dengerin aku."
+      },
+      {
+        "role": "model",
+        "content": "Itu kekhawatiran yang masuk akal buat posisi baru kamu. Mau cerita ketakutan spesifik soal interaksi dengan tim nanti?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Orang tuaku muji hasil gambarku yang dipajang di galeri, tapi aku malah ngerasa itu karya yang jelek dan mereka cuma bohong buat nyenengin aku."
+      },
+      {
+        "role": "model",
+        "content": "Wah, karya kamu masuk galeri itu keren banget padahal! Kenapa kamu malah mikir orang tuamu cuma bohong?"
+      },
+      {
+        "role": "user",
+        "content": "Karena waktu bikin aku ngerasa banyak cacatnya dan buru-buru diselesaiin. Rasanya nggak layak dipuji."
+      },
+      {
+        "role": "model",
+        "content": "Standar yang kamu buat untuk diri sendiri sepertinya ketinggian ya. Mau cerita bagian mana dari gambar itu yang paling kamu ragukan?"
+      }
+    ]
+  }
+]

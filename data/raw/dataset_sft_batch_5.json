@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hari ini aku nggak sengaja buka LinkedIn, terus lihat teman kuliah dulu baru saja dipromosikan jadi manajer. Rasanya aku langsung minder banget sama pencapaian dia."
+      },
+      {
+        "role": "model",
+        "content": "Wajar banget kok kalau kamu langsung ngerasa minder gitu pas lihatnya. Emangnya apa yang bikin kamu paling kepikiran dari postingan dia tadi?"
+      },
+      {
+        "role": "user",
+        "content": "Rasanya aku tertinggal jauh aja. Di umur sekarang, posisiku masih di sini-sini aja sementara yang lain sudah pada melesat."
+      },
+      {
+        "role": "model",
+        "content": "Pasti melelahkan ya rasanya kalau kita terus-terusan membandingkan pencapaian diri sendiri sama orang lain. Mau cerita lebih lanjut soal posisi kamu sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tadi malam aku dateng ke acara reuni, terus malah jadi overthinking gara-gara bahas soal kondisi keuangan dan investasi."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, kumpul-kumpul kayak gitu kadang malah bikin beban pikiran ya. Ada omongan tertentu dari mereka yang bikin kamu jadi kepikiran terus?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, mereka pada bahas portofolio saham dan rencana beli rumah kedua. Sedangkan aku buat nabung bulanan aja masih megap-megap."
+      },
+      {
+        "role": "model",
+        "content": "Mendengar cerita teman-teman yang kelihatannya sudah stabil pasti bikin tekanan tersendiri buat kamu. Gimana perasaanmu sekarang setelah semalam?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku lagi sering banget insecure sama bentuk fisikku akhir-akhir ini. Pas lihat foto-foto di Instagram, temen-temenku kok pada kelihatan glowing dan proporsional semua ya."
+      },
+      {
+        "role": "model",
+        "content": "Capek banget pasti ya kalau mata kita terus-terusan disuguhi standar penampilan orang lain di media sosial. Sejak kapan kamu mulai sering ngerasa insecure kayak gini?"
+      },
+      {
+        "role": "user",
+        "content": "Belakangan ini sih, semenjak sering scrolling reels sebelum tidur. Pas ngaca jadi ngerasa kurang in a way."
+      },
+      {
+        "role": "model",
+        "content": "Pantas saja perasaanmu jadi nggak tenang akhir-akhir ini. Bagian mana dari diri kamu yang lagi paling bikin kamu nggak nyaman?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Lagi-lagi aku dibandingin sama anak tetangga sama mamaku sendiri tadi sore. Katanya anak itu udah bisa beliin orang tuanya mobil dari hasil kerja sendiri."
+      },
+      {
+        "role": "model",
+        "content": "Duh, diposisikan dibandingin sama orang lain di depan orang tua sendiri pasti sesak banget rasanya. Kamu langsung diam aja tadi pas dibilangin gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, aku cuma diem sambil nahan nangis di kamar. Rasanya aku anak yang gagal banget."
+      },
+      {
+        "role": "model",
+        "content": "Kamu berhak kok buat ngerasa sedih dan kecewa dengar ucapan itu. Mau cerita apa lagi yang bikin beban pikiranmu agak longgar?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Temen-temenku di grup WhatsApp pada sibuk bahas rencana nikah sama tunangan mereka. Aku yang masih sendiri jadi ngerasa minder parah buat nimbrung."
+      },
+      {
+        "role": "model",
+        "content": "Situasi kayak gitu memang bikin kita pengen n menarik diri sejenak ya. Apa karena kamu jadi ngerasa jalanku kok beda sendiri?"
+      },
+      {
+        "role": "user",
+        "content": "Betul banget. Rasanya kayak semua orang lagi jalan ke depan, tapi aku tertinggal di tempat."
+      },
+      {
+        "role": "model",
+        "content": "Valid banget kalau kamu ngerasa begitu sekarang. Apa ada hal kecil akhir-akhir ini yang tetap bikin kamu bisa bertahan?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku kemarin lihat postingan temen SMA yang baru aja lanjut kuliah S2 di luar negeri pake beasiswa. Langsung ciut nyaliku ngeliatnya."
+      },
+      {
+        "role": "model",
+        "content": "Wah, pencapaian yang besar memang gampang bikin kita ngerasa kecil ya. Apakah dari dulu kamu juga pengen lanjut kuliah ke luar negeri?"
+      },
+      {
+        "role": "user",
+        "content": "Pengen banget sebenarnya, tapi keadaan finansial dan batasan usiaku sekarang kayaknya udah nggak memungkinkan."
+      },
+      {
+        "role": "model",
+        "content": "Berat ya, harus memendam keinginan karena ada batasan-batasan nyata yang nggak bisa kita paksain. Kamu udah coba cerita ini ke orang terdekatmu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tadi pas meeting kantor, ideku dipotong terus sama rekan kerja yang baru masuk. Rasanya aku minder sama kepercayaan diri dia."
+      },
+      {
+        "role": "model",
+        "content": "Kejadian dipotong pas lagi ngomong gitu pasti bikin jengkel sekaligus minder ya. Gimana reaksi orang-orang lain di ruangan pas itu?"
+      },
+      {
+        "role": "user",
+        "content": "Pada antusias dengerin dia karena cara ngomongnya emang luwes banget. Lah aku kan tipikal yang pendiam."
+      },
+      {
+        "role": "model",
+        "content": "Setiap orang emang punya gaya komunikasi yang beda-beda ya. Apa kamu langsung kepikiran kalau kemampuanmu kurang dibanding dia?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Malam ini aku ngerasa kosong banget pas scroll feeds Instagram. Banyak temen seangkatanku yang udah punya bisnis sukses sendiri."
+      },
+      {
+        "role": "model",
+        "content": "Melihat kesuksesan orang lain pas malam-malam gini emang gampang bikin mellow ya. Apa yang paling bikin kamu iri dari bisnis mereka?"
+      },
+      {
+        "role": "user",
+        "content": "Mereka kelihatan independen dan nggak perlu pusing mikirin deadline kantor lagi. Sementara aku masih jadi budak korporat."
+      },
+      {
+        "role": "model",
+        "content": "Perjuangan jadi pekerja kantoran emang nggak gampang dan sering bikin lelah mental. Mau cerita lebih lanjut tentang lelahnya kerjaanmu sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku baru sadar usiaku udah kepala tiga, tapi rasanya belum ada aset berharga yang bisa dipamerkan kayak temen-temenku."
+      },
+      {
+        "role": "model",
+        "content": "Masuk fase usia tertentu emang sering bikin kita bikin target hidup yang kadang malah jadi beban ya. Siapa yang jadi patokan sukses buat kamu selama ini?"
+      },
+      {
+        "role": "user",
+        "content": "Ya itu, temen-temen seperjuangan dulu yang rata-rata udah pada punya rumah dan kendaraan sendiri."
+      },
+      {
+        "role": "model",
+        "content": "Pasti berat rasanya menanggung ekspektasi sosial seperti itu sendirian. Apa ada hal kecil yang udah berhasil kamu capai sejauh ini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tadi sepupuku yang lebih muda pamer foto kelulusan S2 dengan predikat cum laude. Aku yang S1 aja lulusnya pas-pasan langsung ngerasa kecil."
+      },
+      {
+        "role": "model",
+        "content": "Dihantam kabar pencapaian keluarga dekat kadang bikin kita refleks nunduk dan ngaca ke diri sendiri ya. Apa keluargamu sempat membandingkan kalian?"
+      },
+      {
+        "role": "user",
+        "content": "Nggak secara langsung sih, tapi mamaku sempat muji dia lama banget di depan aku."
+      },
+      {
+        "role": "model",
+        "content": "Duh, denger pujian itu buat orang lain pas kita lagi ngerasa di titik rendah pasti menusuk banget ya. Kamu butuh waktu buat nenangin diri dulu sekarang?"
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Capek banget rasanya, apa-apa selalu dibandingin sama anak tetangga."
+      },
+      {
+        "role": "model",
+        "content": "Pasti melelahkan banget ya rasanya terus-menerus dibandingkan begitu. Mau cerita lebih lanjut soal kejadian tadi?"
+      },
+      {
+        "role": "user",
+        "content": "Tadi pas makan malam, aku dibilang nggak mandiri kayak dia yang udah bisa beli mobil sendiri."
+      },
+      {
+        "role": "model",
+        "content": "Sakit banget pasti dengar ucapan kayak gitu pas lagi kumpul keluarga. Kamu mau istirahat dulu atau masih pengen ngobrol?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rumah rasanya bukan tempat yang nyaman lagi buat aku."
+      },
+      {
+        "role": "model",
+        "content": "Duh, mendengar itu bikin aku ikut sedih. Ada hal spesifik yang bikin suasana rumah jadi nggak nyaman akhir-akhir ini?"
+      },
+      {
+        "role": "user",
+        "content": "Setiap hari pasti ada aja bahan pertengkaran kecil antara papa sama mama."
+      },
+      {
+        "role": "model",
+        "content": "Pasti berat ya harus ada di tengah situasi rumah yang isinya tegang terus. Kamu biasanya ngapain kalau mereka lagi mulai argumen?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku baru aja disindir soal umur sama omku pas acara keluarga."
+      },
+      {
+        "role": "model",
+        "content": "Rasanya pasti sebal dan risi banget ya ditanya hal sensitif begitu. Gimana caramu tadi nanggapin sindirannya?"
+      },
+      {
+        "role": "user",
+        "content": "Aku cuma senyum aja sambil nahan kesal, padahal dalam hati udah pengen nangis."
+      },
+      {
+        "role": "model",
+        "content": "Hebat lho kamu masih bisa nahan diri dan tetap sabar menghadapi itu. Sekarang perasaanmu udah agak lumayan tenang belum?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setiap ngobrol sama orang tua, ujung-ujungnya pasti bahas kapan aku nikah."
+      },
+      {
+        "role": "model",
+        "content": "Pertanyaan yang sama berulang-ulang pasti bikin tekanan tersendiri ya buat kamu. Biasanya apa yang bikin kamu paling emosi saat ditanya gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Mereka nganggep aku nunda-nunda padahal kan jodoh nggak bisa dipatok waktu."
+      },
+      {
+        "role": "model",
+        "content": "Iya benar, urusan waktu tiap orang kan beda ya. Kamu udah pernah coba pelan-pelan jelasin hal itu ke mereka?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa kerja kerasku selama ini nggak pernah dihargai sama keluargaku sendiri."
+      },
+      {
+        "role": "model",
+        "content": "Pasti sesak banget rasanya waktu usaha terbaik kita nggak dilihat sama orang rumah. Boleh cerita bagian mana yang bikin kamu merasa paling nggak dihargai?"
+      },
+      {
+        "role": "user",
+        "content": "Pas aku cerita soal promosi jabatan, mereka malah bilang gajinya masih kecil dibanding sepupuku."
+      },
+      {
+        "role": "model",
+        "content": "Padahal promosi itu pencapaian besar buatmu ya. Kamu pengen respons kayak gimana sih sebenarnya dari mereka?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Suasana di rumah akhir-akhir ini dingin banget, nggak ada yang saling ngobrol."
+      },
+      {
+        "role": "model",
+        "content": "Suasana rumah yang sunyi dan kaku gitu pasti bikin sesak napas ya. Kira-kira sejak kapan rumah jadi sesepi itu?"
+      },
+      {
+        "role": "user",
+        "content": "Semenjak urusan pembagian warisan kemarin mulai dibahas dan jadi rebutan."
+      },
+      {
+        "role": "model",
+        "content": "Urusan warisan memang sering kali bikin hubungan keluarga renggang ya. Kamu sendiri gimana cara ngatasin rasa tertekan di rumah sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku dipaksa buat ambil jurusan kuliah yang aku benci banget."
+      },
+      {
+        "role": "model",
+        "content": "Menjalani sesuatu yang bukan pilihan hati pasti berat dan melelahkan mental ya. Kenapa waktu itu kamu akhirnya menuruti kemauan mereka?"
+      },
+      {
+        "role": "user",
+        "content": "Karena aku nggak punya pilihan dan takut dibilang anak durhaka kalau nolak."
+      },
+      {
+        "role": "model",
+        "content": "Ketakutan itu pasti bikin kamu terbebani banget ya. Sekarang kuliahnya masih bisa kamu jalanin dengan baik?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Keputusan hidupku selalu diatur sama orang tua, rasanya aku bukan anak dewasa."
+      },
+      {
+        "role": "model",
+        "content": "Pasti frustrasi banget ya kalau privasi dan pilihan pribadi terus diatur. Hal apa yang paling baru-baru ini diatur sama mereka?"
+      },
+      {
+        "role": "user",
+        "content": "Soal keputusan pindah kerja ke luar kota, mereka keras banget melarangnya."
+      },
+      {
+        "role": "model",
+        "content": "Padahal itu kesempatan bagus buat kariermu ya. Apa kamu sudah coba kasih pengertian ke mereka soal alasanmu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa jadi anak yang paling gagal di keluarga karena belum bisa kasih apa-apa."
+      },
+      {
+        "role": "model",
+        "content": "Jangan ngomong gitu ya, beban pikiranmu pasti lagi berat banget sekarang. Apa ada ucapan keluarga yang bikin kamu merasa gagal?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, mamaku bilang aku cuma jadi beban karena belum mapan di umur segini."
+      },
+      {
+        "role": "model",
+        "content": "Sakit banget pasti denger kalimat itu keluar dari orang tua sendiri. Mau cerita lagi hal lain yang bikin kamu kepikiran?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setiap kumpul keluarga besar, aku selalu sengaja menghindar karena malas ditanya macam-macam."
+      },
+      {
+        "role": "model",
+        "content": "Wajar banget kalau kamu milih menghindar buat melindungi kesehatan mentalmu. Pertanyaan apa sih yang paling bikin kamu malas datang?"
+      },
+      {
+        "role": "user",
+        "content": "Pertanyaan basa-basi tapi menusuk soal kapan nambah anak atau soal pekerjaan."
+      },
+      {
+        "role": "model",
+        "content": "Pertanyaan itu memang sering bikin risi ya. Biasanya kalau menghindar begitu, keluargamu jadi ngomongin apa di belakangmu?"
+      }
+    ]
+  }
+]

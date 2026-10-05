@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Akhir-akhir ini dia tiba-tiba cuek banget, padahal biasanya nggak pernah begini."
+      },
+      {
+        "role": "model",
+        "content": "Pasti rasanya nggak enak banget ya waktu sikapnya berubah drastis gitu. Ada hal spesifik yang bikin kamu mulai merasa dia cuek?"
+      },
+      {
+        "role": "user",
+        "content": "Dia kalau dichat balesnya cuma sepatah dua patah kata aja, terus lama lagi."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, dibales singkat dan lama itu pasti bikin kamu overthinking ya. Kamu udah coba tanya langsung ke dia soal perubahan ini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku gak sengaja lihat HP-nya dan dia nutupin sesuatu dari aku."
+      },
+      {
+        "role": "model",
+        "content": "Eh, itu pasti bikin kaget dan bikin hati kamu langsung tidak tenang ya. Apa yang sebenarnya keliatan pas kamu lihat?"
+      },
+      {
+        "role": "user",
+        "content": "Ada chat dari orang lain yang isinya kayaknya mesra gitu, padahal dia bilang cuma teman."
+      },
+      {
+        "role": "model",
+        "content": "Duh, nemu hal kayak gitu jelas bikin sesak dada dan hilang kepercayaan ya. Kamu udah sempat minta penjelasan soal chat itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rasanya hubungan kami sekarang udah nggak sehat, tapi kok aku susah banget buat lepas ya."
+      },
+      {
+        "role": "model",
+        "content": "Nggak apa-apa merasa bingung gitu, karena melepaskan seseorang yang lama di hidup kita memang nggak pernah gampang. Bagian mana yang bikin kamu paling berat buat udahan?"
+      },
+      {
+        "role": "user",
+        "content": "Karena aku masih ingat kenangan manis kita waktu awal-awal jadian dulu."
+      },
+      {
+        "role": "model",
+        "content": "Kenangan baik itu memang sering bikin kita bertahan meski keadaannya sekarang sudah beda ya. Apa sekarang kenangan itu yang bikin kamu ragu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Dia sering banget ngilang pas lagi ada masalah, malah milih buat tidur daripada diselesaikannya."
+      },
+      {
+        "role": "model",
+        "content": "Ditinggal pas lagi butuh penjelasan itu pasti bikin kamu merasa sendirian banget ya. Biasanya dia ngilang sampai berapa lama kalau lagi gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Bisa seharian penuh nggak ada kabar, nanti pas bangun kayak nggak ada apa-apa."
+      },
+      {
+        "role": "model",
+        "content": "Sikap abai kayak gitu malah bikin masalahnya nggak pernah selesai ya. Kamu biasanya pendam sendiri atau coba tegur dia?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku capek banget harus selalu ngalah dan minta maaf duluan tiap kali kita berantem."
+      },
+      {
+        "role": "model",
+        "content": "Capek ya kalau rasanya beban hubungan cuma kamu sendirian yang pikul. Sejak kapan pola berantem kayak gini mulai sering terjadi?"
+      },
+      {
+        "role": "user",
+        "content": "Udah beberapa bulan terakhir ini, semenjak dia sibuk sama hobi barunya."
+      },
+      {
+        "role": "model",
+        "content": "Ohh, jadi sejak hobi barunya itu perhatiannya jadi terbagi ya. Kamu udah pernah bilang kalau kamu butuh waktu buat ngobrol juga?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Dia udah jarang banget bilang sayang atau kasih kabar kayak dulu lagi."
+      },
+      {
+        "role": "model",
+        "content": "Perubahan kecil dari perhatian yang biasa kita dapat itu pasti langsung kerasa banget ya. Mulai kapan kamu sadar kalau dia udah jarang kasih kabar?"
+      },
+      {
+        "role": "user",
+        "content": "Sejak kita sempet bertengkar hebat bulan lalu soal masa depan."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, obrolan soal masa depan itu kadang emang bikin suasana jadi canggung ya. Menurutmu, pertengkaran itu yang bikin dia jadi agak menjauh?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa cuma aku yang berjuang di hubungan ini, dia kelihatan biasa aja."
+      },
+      {
+        "role": "model",
+        "content": "Perasaan berjuang sendirian itu pasti melelahkan dan bikin sedih banget ya. Hal apa yang paling bikin kamu mikir kalau dia udah nggak peduli?"
+      },
+      {
+        "role": "user",
+        "content": "Setiap aku ajak ngomong soal komitmen, dia selalu mengalihkan pembicaraan."
+      },
+      {
+        "role": "model",
+        "content": "Dihindari pas lagi bahas hal penting pasti bikin kamu jadi makin cemas ya. Gimana biasanya reaksi kamu pas dia ngalihin topik?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Pasanganku sekarang gampang banget emosi, padahal cuma masalah sepele."
+      },
+      {
+        "role": "model",
+        "content": "Duh, kalau kena marah gara-gara hal kecil kan bikin kita jadi serba salah ya. Apa akhir-akhir ini dia memang lagi banyak pikiran di tempat lain?"
+      },
+      {
+        "role": "user",
+        "content": "Katanya sih kerjaannya lagi banyak beban, tapi masa iya dibawa ke aku terus."
+      },
+      {
+        "role": "model",
+        "content": "Iya juga ya, beban kerja bukan alasan buat melampiaskan emosi ke orang terdekat. Kamu udah coba ngobrol pas mood dia lagi bagus?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku lagi di fase ragu banget sama perasaan dia yang sebenarnya ke aku."
+      },
+      {
+        "role": "model",
+        "content": "Ragu sama perasaan orang tersayang itu bikin hati rasanya nggak tenang ya. Apa ada kejadian tertentu yang bikin keraguan itu muncul?"
+      },
+      {
+        "role": "user",
+        "content": "Dia kelihatan seneng banget waktu jalan sama temen-temennya dibandingin sama aku."
+      },
+      {
+        "role": "model",
+        "content": "Waktu dia lebih pilih kumpul sama temennya, kamu merasa diabaikan ya? Apa kalian sempat ada janji ketemuan sebelumnya?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hubungan kami sekarang rasanya hambar, kayak cuma jalanin status aja."
+      },
+      {
+        "role": "model",
+        "content": "Rasanya pasti sepi banget ya meskipun punya pacar tapi kayak nggak punya. Menurutmu, apa yang bikin kehangatan di antara kalian hilang?"
+      },
+      {
+        "role": "user",
+        "content": "Kita udah nggak pernah punya waktu berkualitas berdua tanpa main HP."
+      },
+      {
+        "role": "model",
+        "content": "Ah, distraksi dari gadget memang sering bikin kita lupa buat terhubung ya. Kamu udah pernah coba ajak dia buat quality time tanpa HP?"
+      }
+    ]
+  }
+]

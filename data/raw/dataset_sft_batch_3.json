@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Akhir-akhir ini dia beda banget, suka tiba-tiba nggak ada kabar seharian."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, pasti bikin kamu cemas ya nungguin kabarnya seharian begitu? Ada hal lain yang bikin kamu curiga nggak?"
+      },
+      {
+        "role": "user",
+        "content": "Pas ditanya, dia cuma bilang sibuk kerja tapi pesannya online terus."
+      },
+      {
+        "role": "model",
+        "content": "Duh, kontras banget ya sama alasannya. Kamu udah coba tegur langsung soal itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku nemu chat aneh di HP-nya semalem pas dia ketiduran."
+      },
+      {
+        "role": "model",
+        "content": "Wah, kaget banget pasti ya waktu tidak sengaja lihat itu. Pesan seperti apa yang bikin kamu kepikiran?"
+      },
+      {
+        "role": "user",
+        "content": "Dia manggil orang lain dengan sebutan sayang dan sering ngobrol malam-malam."
+      },
+      {
+        "role": "model",
+        "content": "Sakit banget rasanya pas tahu hal itu ya. Kamu mau langsung tanyakan ke dia sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hubungan kami rasanya udah hambar, tapi aku kok susah banget ya buat udahan."
+      },
+      {
+        "role": "model",
+        "content": "Wajar kok kalau berat, kan kalian udah lewatin banyak hal bareng. Apa yang bikin kamu paling susah lepas dari dia?"
+      },
+      {
+        "role": "user",
+        "content": "Takut aja mulai dari awal lagi sama orang baru, capek adaptasi."
+      },
+      {
+        "role": "model",
+        "content": "Iya sih, rasa lelah itu wajar banget dirasain. Mau cerita lebih banyak soal rasa lelah itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Dia sering banget ngilang kalau lagi ada masalah, padahal aku pengennya diselesaiin."
+      },
+      {
+        "role": "model",
+        "content": "Pasti sesak ya rasanya kalau masalahnya malah didiamkan begitu saja. Biasanya dia ngilang sampai berapa lama?"
+      },
+      {
+        "role": "user",
+        "content": "Bisa dua sampe tiga hari tanpa kabar sama sekali."
+      },
+      {
+        "role": "model",
+        "content": "Lama juga ya. Kamu biasanya ngapain buat nenangin diri selama ditinggal diam begitu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ngerasa berjuang sendirian di hubungan ini, capek banget."
+      },
+      {
+        "role": "model",
+        "content": "Peluk jauh ya buat kamu, pasti melelahkan banget ya nanggung semuanya sendiri. Hal apa yang paling bikin kamu ngerasa sendirian?"
+      },
+      {
+        "role": "user",
+        "content": "Semua urusan rencana masa depan cuma aku yang mikirin dan usahain."
+      },
+      {
+        "role": "model",
+        "content": "Berat banget ya kalau beban pikiran itu ditanggung sendirian. Kamu udah pernah coba ngomongin ini ke dia?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Dia mulai sering bohong soal kecil-kecil, lama-lama aku jadi nggak percaya lagi."
+      },
+      {
+        "role": "model",
+        "content": "Hilangnya kepercayaan itu memang bikin rapuh ya. Kebohongan apa yang paling membekas buat kamu?"
+      },
+      {
+        "role": "user",
+        "content": "Katanya di rumah, eh ternyata temennya nge-tag dia lagi nongkrong di kafe."
+      },
+      {
+        "role": "model",
+        "content": "Duh, ketahuan bohong begitu pasti bikin kecewa banget ya. Waktu tahu itu, kamu langsung konfirmasi ke dia?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Setiap kali kita debat, ujung-ujungnya aku selalu disalahin."
+      },
+      {
+        "role": "model",
+        "content": "Rasanya pasti tidak adil ya kalau posisinya diputarbalikkan begitu. Kamu masih sering ngalah demi ributnya selesai?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, aku selalu ngalah karena capek ribut terus."
+      },
+      {
+        "role": "model",
+        "content": "Lama-lama perasaanmu sendiri yang numpuk dan terabaikan ya. Mau luapin uneg-unegnya ke aku?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Dia udah jarang banget bilang kangen atau perhatian kayak dulu."
+      },
+      {
+        "role": "model",
+        "content": "Perubahan sikap sekecil itu pasti kerasa banget ya bedanya. Sejak kapan kamu mulai ngerasain perubahan itu?"
+      },
+      {
+        "role": "user",
+        "content": "Sejak dia sibuk sama hobi barunya beberapa bulan belakangan ini."
+      },
+      {
+        "role": "model",
+        "content": "Oh begitu. Kamu sempat coba ikut nimbrung atau kasih ruang dulu buat hobi barunya?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ngerasa jadi pilihan kedua kalau dia lagi senggang aja."
+      },
+      {
+        "role": "model",
+        "content": "Sakit banget pasti ya diposisikan seperti itu sama orang yang kita sayang. Momen apa yang bikin kamu paling ngerasa kayak gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Dia batalin janji ketemuan kita demi nongkrong sama temennya."
+      },
+      {
+        "role": "model",
+        "content": "Padahal kalian udah janji ya sebelumnya. Kamu langsung marahi dia atau mendem sendiri?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hubungan kami udah nggak sehat, tapi aku masih sayang banget."
+      },
+      {
+        "role": "model",
+        "content": "Dilema yang sulit banget ya antara perasaan sayang sama kondisi yang bikin lelah. Apa yang bikin kamu bertahan sampai detik ini?"
+      },
+      {
+        "role": "user",
+        "content": "Masih inget kenangan manis waktu awal-awal kita jadian dulu."
+      },
+      {
+        "role": "model",
+        "content": "Kenangan indah itu emang sering bikin kita gamang ya. Hari ini, apa hal terberat yang kamu rasain?"
+      }
+    ]
+  }
+]

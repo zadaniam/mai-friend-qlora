@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa benar-benar kehabisan tenaga akhir-akhir ini. Tugas kuliah menumpuk terus dan rasanya aku nggak sanggup lagi."
+      },
+      {
+        "role": "model",
+        "content": "Rasanya pasti melelahkan banget ya menghadapi tumpukan tugas itu sendirian. Mau cerita bagian tugas mana yang paling bikin kamu pusing sekarang?"
+      },
+      {
+        "role": "user",
+        "content": "Paling parah di skripsi sih. Dosen pembimbing terus-menerus revisi dan aku mulai ragu sama kemampuan sendiri."
+      },
+      {
+        "role": "model",
+        "content": "Dapat revisi terus memang bikin mental down dan meragukan diri sendiri ya. Bagian revisi mana yang paling bikin kamu stuck saat ini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Entah kenapa aku merasa salah jurusan banget semester ini. Pelajarannya terasa asing dan bikin aku malas masuk kelas."
+      },
+      {
+        "role": "model",
+        "content": "Menyadari kalau kita mungkin salah jurusan di tengah jalan pasti bikin cemas ya. Pelajaran apa yang bikin kamu paling merasa asing belakangan ini?"
+      },
+      {
+        "role": "user",
+        "content": "Mata kuliah pemrograman dasar. Otakku rasanya nggak nyambung sama sekali sama rumus-rumus itu."
+      },
+      {
+        "role": "model",
+        "content": "Menghadapi materi yang sama sekali nggak masuk di kepala memang bikin frustrasi. Sejak kapan kamu mulai merasa kesulitan ngikutin kelas itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Ujian akhir semester tinggal seminggu lagi, tapi aku malah blank dan nggak bisa fokus belajar sama sekali."
+      },
+      {
+        "role": "model",
+        "content": "Waktu ujian sudah dekat tapi pikiran malah kosong pasti bikin panik luar biasa ya. Apa yang biasanya ada di kepala kamu waktu coba mulai buka buku?"
+      },
+      {
+        "role": "user",
+        "content": "Pikiran kalau aku bakal gagal dan mengecewakan orang tua. Itu terus yang berputar."
+      },
+      {
+        "role": "model",
+        "content": "Beban ekspektasi orang tua memang sering bikin pundak terasa berat banget ya. Kamu mau coba tarik napas sebentar atau mau cerita lagi?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku kehilangan motivasi hidup buat bangun pagi. Semuanya terasa datar dan hambar setiap hari."
+      },
+      {
+        "role": "model",
+        "content": "Menjalani hari-hari dengan rasa hambar dan tanpa motivasi itu melelahkan sekali pastinya. Apakah ada hal spesifik yang bikin perasaan ini muncul?"
+      },
+      {
+        "role": "user",
+        "content": "Rutinitas kerjaan kantor yang monoton dan nggak ada perkembangan karier sama sekali."
+      },
+      {
+        "role": "model",
+        "content": "Terjebak di rutinitas yang monoton memang bikin kita merasa jalan di tempat ya. Hal kecil apa yang biasanya sedikit menghiburmu akhir-akhir ini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Badanku gampang banget sakit akhir-akhir ini karena stres mikirin target kantor yang nggak masuk akal."
+      },
+      {
+        "role": "model",
+        "content": "Sampai jatuh sakit karena stres kerjaan itu tanda kalau tubuhmu butuh istirahat banget ya. Target seperti apa sih yang diminta atasanmu?"
+      },
+      {
+        "role": "user",
+        "content": "Aku harus nyelesaiin laporan keuangan tahunan dalam tiga hari, padahal datanya masih berantakan."
+      },
+      {
+        "role": "model",
+        "content": "Tiga hari untuk data sebanyak itu jelas tekanan yang tidak masuk akal ya. Apakah kamu sudah coba bicarakan kondisi datanya ke atasan?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku bingung banget mau lanjut kerja atau ambil S2 setelah lulus nanti. Dua-duanya keliatan berat."
+      },
+      {
+        "role": "model",
+        "content": "Memilih langkah setelah lulus memang masa-masa yang bikin galau tingkat tinggi ya. Apa yang bikin kamu ragu buat langsung kerja?"
+      },
+      {
+        "role": "user",
+        "content": "Takut nggak diterima karena saingannya banyak dan pengalaman kerjaku masih kurang banget."
+      },
+      {
+        "role": "model",
+        "content": "Persaingan dunia kerja memang sering bikin kita merasa minder duluan ya. Pengalaman apa yang sebenarnya paling ingin kamu miliki saat ini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Semalem aku nangis sesenggukan di kamar mandi karena capek banget ngurusin organisasi kampus sambil kuliah."
+      },
+      {
+        "role": "model",
+        "content": "Menyimpan lelah sendirian sampai akhirnya menangis di kamar mandi pasti sesak banget rasanya. Program kerja apa yang lagi bikin kamu sangat kuwalahan?"
+      },
+      {
+        "role": "user",
+        "content": "Acara puncak pensi kampus minggu depan. Semua panitia pada lepas tangan dan aku yang harus nanggung."
+      },
+      {
+        "role": "model",
+        "content": "Menanggung beban kerjaan orang lain sendirian di saat genting itu nggak adil banget buat kamu. Apa kamu sudah coba tegur panitia yang lepas tangan itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa terjebak di pekerjaan sekarang tapi nggak berani resign karena takut nggak ada pemasukan."
+      },
+      {
+        "role": "model",
+        "content": "Dilema antara bertahan di tempat toxic atau keluar tanpa pegangan itu bikin stres ya. Sejak kapan perasaan ingin resign ini mulai muncul?"
+      },
+      {
+        "role": "user",
+        "content": "Sejak bosku sering marah-marah di depan umum tanpa alasan yang jelas sebulan belakangan."
+      },
+      {
+        "role": "model",
+        "content": "Dimarahi di depan umum itu jelas menjatuhkan harga diri dan bikin tidak nyaman ya. Bagaimana biasanya kamu menenangkan diri setelah kejadian itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Konsentrasi belajarku turun drastis sejak sebulan lalu. Baca satu halaman buku aja rasanya ngantuk terus."
+      },
+      {
+        "role": "model",
+        "content": "Susah fokus dan gampang ngantuk saat belajar biasanya tanda kalau otakmu sudah kelebihan muatan ya. Apakah tidurmu belakangan ini cukup?"
+      },
+      {
+        "role": "user",
+        "content": "Nggak cukup sih, sering begadang buat scroll media sosial sampai jam tiga pagi."
+      },
+      {
+        "role": "model",
+        "content": "Begadang sampai pagi itu bikin fisik makin terkuras ya. Apa yang biasanya bikin kamu susah tidur malam-malam?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa tertinggal jauh banget dari temen-temenangkatanku yang lain yang udah pada mapan."
+      },
+      {
+        "role": "model",
+        "content": "Membandingkan pencapaian diri sendiri dengan orang lain memang sering bikin hati jadi sedih ya. Hal apa dari teman-temanmu yang paling sering bikin kamu merasa tertinggal?"
+      },
+      {
+        "role": "user",
+        "content": "Mereka udah pada punya pekerjaan tetap dengan gaji tinggi, sementara aku masih cari-cari kerja."
+      },
+      {
+        "role": "model",
+        "content": "Masa pencarian kerja memang penuh ketidakpastian dan bikin mental gampang lelah ya. Sudah berapa lama kamu aktif mengirim lamaran kerja?"
+      }
+    ]
+  }
+]

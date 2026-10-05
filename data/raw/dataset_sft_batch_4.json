@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Malam ini rasanya berat banget, aku nggak sengaja lihat foto lama kita waktu liburan."
+      },
+      {
+        "role": "model",
+        "content": "Pasti sesak ya rasanya pas tiba-tiba lihat foto itu? Mau cerita lebih lanjut?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, langsung kebayang semua kenangannya. Kenapa ya melupakan itu susah banget?"
+      },
+      {
+        "role": "model",
+        "content": "Wajar kok kalau masih berat, kan kenangannya banyak. Apa bagian yang paling bikin kamu kangen sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku baru aja nangis seharian di kamar karena teringat dia."
+      },
+      {
+        "role": "model",
+        "content": "Peluk jauh ya buat kamu. Menangis aja nggak apa-apa kok kalau itu bikin lega."
+      },
+      {
+        "role": "user",
+        "content": "Makasih ya sudah dengerin. Capek banget rasanya pura-pura baik-baik aja di depan orang."
+      },
+      {
+        "role": "model",
+        "content": "Iya, capek kan kalau harus terus kuat. Mau cerita soal hal apa yang bikin kamu paling lelah hari ini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Barang-barang pemberiannya masih ada di meja kamarku dan aku belum berani menyentuhnya."
+      },
+      {
+        "role": "model",
+        "content": "Nggak usah terburu-buru dirapiin kalau memang belum siap ya. Apa yang bikin kamu ragu buat memindahkannya?"
+      },
+      {
+        "role": "user",
+        "content": "Takut kalau nanti malah makin sedih dan kepikiran dia lagi."
+      },
+      {
+        "role": "model",
+        "content": "Perasaan takut itu wajar banget kok. Kamu mau ditemenin dulu ngobrol biar nggak terlalu sepi?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tadi aku sempat mau nge-chat dia, tapi akhirnya kutahan."
+      },
+      {
+        "role": "model",
+        "content": "Hebat lho kamu sudah bisa nahan diri buat nggak kirim pesan. Apa yang bikin kamu hampir nge-chat dia tadi?"
+      },
+      {
+        "role": "user",
+        "content": "Cuma kangen suaranya aja waktu kita biasa teleponan malam-malam."
+      },
+      {
+        "role": "model",
+        "content": "Kangen suasana itu pasti kerasa banget ya sekarang. Mau cerita hal apa lagi yang bikin kamu rindu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ngerasa kayaknya nggak bakal bisa buka hati lagi buat orang lain."
+      },
+      {
+        "role": "model",
+        "content": "Lukanya masih terasa dalam ya sampai rasanya menutup diri. Apa hal yang bikin kamu mikir gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Takut aja kejadian kemarin terulang lagi di masa depan."
+      },
+      {
+        "role": "model",
+        "content": "Rasa takut itu valid banget setelah apa yang kamu lewati. Mau cerita lebih banyak soal ketakutan itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Lagu-lagu di playlist ku kok isinya lagu galau semua ya sekarang."
+      },
+      {
+        "role": "model",
+        "content": "Lagi pas banget sama suasana hati kamu ya jadinya. Ada lagu tertentu yang paling mewakili perasaanmu?"
+      },
+      {
+        "role": "user",
+        "content": "Ada satu lagu yang dulu sering dia nyanyiin buat aku."
+      },
+      {
+        "role": "model",
+        "content": "Duh, pasrahin aja kalau mau ikut nyanyi sambil nangis ya. Ceritain dong lagu apa itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Malam Minggu kemarin rasanya sepi banget waktu diam di kamar sendirian."
+      },
+      {
+        "role": "model",
+        "content": "Suasana malam Minggu memang sering bikin waktu terasa lebih lambat ya. Biasanya kalian ngapain kalau malam Minggu?"
+      },
+      {
+        "role": "user",
+        "content": "Biasanya kita teleponan berjam-jam sambil bahas rencana masa depan."
+      },
+      {
+        "role": "model",
+        "content": "Kenangan tentang rencana itu pasti bikin dada sesak ya. Mau lanjut cerita tentang rencana apa yang paling berkesan?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku sempat mimpi ketemu dia semalam, pas bangun rasanya sedih banget."
+      },
+      {
+        "role": "model",
+        "content": "Bangun tidur dengan bayang-bayang mimpi itu pasti bikin suasana hati langsung berubah ya. Mimpinya tentang apa?"
+      },
+      {
+        "role": "user",
+        "content": "Kita lagi jalan-jalan berdua kayak dulu sebelum ada masalah."
+      },
+      {
+        "role": "model",
+        "content": "Rasanya pasti campur aduk ya antara senang di mimpi tapi sedih pas sadar kenyataannya. Mau cerita bagian mimpinya?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Teman-teman suruh aku jalan-jalan biar nggak galau terus, tapi aku males banget."
+      },
+      {
+        "role": "model",
+        "content": "Nggak apa-apa kalau belum ada tenaga buat keluar rumah. Apa yang bikin kamu mager banget sekarang?"
+      },
+      {
+        "role": "user",
+        "content": "Badan rasanya lelah dan pikiran masih penuh sama dia."
+      },
+      {
+        "role": "model",
+        "content": "Istirahat aja dulu kalau memang itu yang kamu butuhin. Mau rebahan sambil ditemenin ngobrol di sini?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ngerasa gagal banget karena hubungan ini harus udahan."
+      },
+      {
+        "role": "model",
+        "content": "Peluk erat untuk kamu yang lagi merasa berat banget bebannya. Kenapa kamu merasa gagal?"
+      },
+      {
+        "role": "user",
+        "content": "Padahal aku sudah berusaha maksimal buat mempertahankan semuanya."
+      },
+      {
+        "role": "model",
+        "content": "Kamu sudah berjuang sejauh itu dan itu hebat banget. Mau cerita soal usaha apa aja yang sudah kamu lakuin?"
+      }
+    ]
+  }
+]

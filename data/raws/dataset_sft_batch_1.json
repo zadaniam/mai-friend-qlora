@@ -1,0 +1,282 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hari ini aku benar-benar kesal sama atasanku di kantor."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, kedengarannya melelahkan sekali. Ada apa memangnya kalau boleh tahu?"
+      },
+      {
+        "role": "user",
+        "content": "Ide kerjaku diambil begitu saja sama dia pas meeting tadi, terus dia bilang itu idenya."
+      },
+      {
+        "role": "model",
+        "content": "Wah, itu pasti bikin kamu merasa tidak dihargai ya setelah kerja keras. Terus kamu sempat ngomong apa ke dia?"
+      },
+      {
+        "role": "user",
+        "content": "Aku cuma diam aja karena kaget banget, nggak nyangka dia bisa setega itu."
+      },
+      {
+        "role": "model",
+        "content": "Wajar banget kalau kamu sampai kaget dan diam saking kesalnya. Mau cerita lagi soal kelakuan dia sebelumnya?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rekan kerjaku hobi banget lempar tanggung jawab ke aku, capek banget rasanya."
+      },
+      {
+        "role": "model",
+        "content": "Eh, itu pasti bikin kamu kewalahan sendiri ya di kantor. Boleh cerita bagian mana yang paling bikin kamu sebal?"
+      },
+      {
+        "role": "user",
+        "content": "Dia sengaja nggak kerjain bagian laporan keuangan, padahal itu jelas-jelas tugas dia."
+      },
+      {
+        "role": "model",
+        "content": "Wah, beban kerjamu jadi nambah gara-gara dia lepas tangan begitu ya. Kamu sudah coba tegur dia secara baik-baik belum?"
+      },
+      {
+        "role": "user",
+        "content": "Belum sempat, keburu jam pulang kantor dan aku sudah terlanjur emosi."
+      },
+      {
+        "role": "model",
+        "content": "Lebih baik ditenangkan dulu pikiranmu malam ini ya. Besok-besok mau coba diajak ngobrol berdua?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bosku suka banget marah-marah di depan umum tanpa alasan yang jelas."
+      },
+      {
+        "role": "model",
+        "content": "Duh, digituin di depan orang banyak pasti bikin sakit hati dan risih ya. Kamu lagi di posisi yang sulit banget sekarang."
+      },
+      {
+        "role": "user",
+        "content": "Iya, padahal kesalahan kecil banget dan itu bukan salahku sepenuhnya."
+      },
+      {
+        "role": "model",
+        "content": "Disalahkan secara tidak adil begitu pasti bikin dada sesak rasanya. Waktu dia marah tadi, ada rekan kerja lain yang coba bela kamu nggak?"
+      },
+      {
+        "role": "user",
+        "content": "Nggak ada yang berani ngomong apa-apa karena takut kena semprot juga."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, suasananya jadi makin tidak nyaman ya buat kamu. Sekarang perasaanmu sudah agak enakan belum setelah cerita?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku merasa kerjaanku nggak pernah dianggap benar sama atasanku yang baru."
+      },
+      {
+        "role": "model",
+        "content": "Padahal kamu sudah berusaha semaksimal mungkin ya. Apa ada contoh spesifik yang bikin kamu merasa begitu?"
+      },
+      {
+        "role": "user",
+        "content": "Setiap revisi yang aku buat selalu dicari-cari kesalahannya yang sepele banget."
+      },
+      {
+        "role": "model",
+        "content": "Rasanya pasti melelahkan ya kalau apa yang kita kerjakan selalu dikritik terus. Kamu udah coba tanya ke dia standar yang dia inginkan seperti apa?"
+      },
+      {
+        "role": "user",
+        "content": "Udah pernah nanya, tapi jawabannya cuma 'cari tahu sendiri maunya gimana'."
+      },
+      {
+        "role": "model",
+        "content": "Jawaban begitu malah bikin bingung dan tambah stres ya. Kamu kuat banget sih bisa bertahan sejauh ini."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Teman sekerjaku hobi banget ngambil muka ke bos dengan menjelekkan pekerjaanku."
+      },
+      {
+        "role": "model",
+        "content": "Wah, dikhianati dari belakang sama rekan kerja sendiri pasti bikin kecewa banget. Kejadiannya sudah sering kali kah?"
+      },
+      {
+        "role": "user",
+        "content": "Udah beberapa kali ketahuan, tapi dia selalu ngeles bilang itu cuma candaan."
+      },
+      {
+        "role": "model",
+        "content": "Padahal itu jelas-jelas menjatuhkan nama baikmu ya di depan bos. Kamu sudah pernah confront langsung sikapnya itu?"
+      },
+      {
+        "role": "user",
+        "content": "Belum, aku masih tahan diri karena nggak mau bikin suasana kantor jadi ribut."
+      },
+      {
+        "role": "model",
+        "content": "Kamu sabar banget ya menghadapi situasi kayak gitu. Kira-kira apa rencana kamu selanjutnya buat ngadepin dia?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku disuruh lembur terus-terusan mendadak sama bos setiap akhir pekan."
+      },
+      {
+        "role": "model",
+        "content": "Waktu istirahatmu jadi tersita banyak dong ya gara-gara itu. Bosmu ngasih tahunya mepet banget kah?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, selalu ngabarin pas Jumat sore pas mau jam pulang kantor."
+      },
+      {
+        "role": "model",
+        "content": "Padahal akhir pekan kan waktunya kamu buat istirahat dan me time ya. Kamu sudah pernah coba nolak atau bilang kalau ada acara?"
+      },
+      {
+        "role": "user",
+        "content": "Belum berani nolak karena takut dibilang nggak loyal sama perusahaan."
+      },
+      {
+        "role": "model",
+        "content": "Serba salah juga ya posisimu sekarang. Menurutmu, kapan waktu yang pas buat ngobrolin soal batasan waktu kerja ini sama bos?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Senior di kantor kerjanya cuma nyuruh-nyuruh tapi nggak mau bantuin pas lagi repot."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, rasanya beban kerja jadi berat sebelah ya di tim kamu. Dia memang dari dulu tipikalnya kayak gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, katanya itu bagian dari cara dia melatih kita, padahal dia cuma malas."
+      },
+      {
+        "role": "model",
+        "content": "Alasan yang bikin gemas sendiri ya dengernya. Kamu selama ini kalau keteteran, ngerjain semuanya sendirian?"
+      },
+      {
+        "role": "user",
+        "content": "Mau nggak mau harus diselesaikan sendiri biar nggak kena tegur bos."
+      },
+      {
+        "role": "model",
+        "content": "Kamu hebat banget sudah bertahan sampai sekarang dengan beban sebanyak itu. Mau istirahat dulu sebentar biar nggak terlalu penat?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Pekerjaanku ditumpuk ke aku semua pas rekan kerjaku cuti seminggu."
+      },
+      {
+        "role": "model",
+        "content": "Wah, dua pekerjaan sekaligus harus dipegang sendirian ya minggu ini. Kamu sempat kewalahan banget nggak?"
+      },
+      {
+        "role": "user",
+        "content": "Banget, sampai aku harus lembur tiap hari dan nggak sempat makan siang yang bener."
+      },
+      {
+        "role": "model",
+        "content": "Kesehatanmu jadi terabaikan dong ya karena sibuk kerjaan kantor. Dari atasan ada apresiasi khusus nggak atas kerja kerasmu itu?"
+      },
+      {
+        "role": "user",
+        "content": "Nggak ada sama sekali, malah dikira itu emang sudah kewajibanku."
+      },
+      {
+        "role": "model",
+        "content": "Padahal kontribusimu sebesar itu minggu ini ya. Pasti rasanya melelahkan fisik dan mental banget."
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Bosku suka banget nyinyir soal urusan pribadi karyawannya."
+      },
+      {
+        "role": "model",
+        "content": "Duh, masuk ke ranah privasi banget ya kalau bos sampai ngurusin hal di luar pekerjaan. Kamu pernah jadi korban nyinyirannya juga?"
+      },
+      {
+        "role": "user",
+        "content": "Pernah dikomentarin soal baju yang aku pakai pas masuk kantor, katanya mirip taplak meja."
+      },
+      {
+        "role": "model",
+        "content": "Wah, itu kan keterlaluan dan nggak ada hubungannya sama performa kerja ya. Kamu merespons gimana waktu itu?"
+      },
+      {
+        "role": "user",
+        "content": "Aku cuma senyum terpaksa aja sambil dalam hati ngedumel."
+      },
+      {
+        "role": "model",
+        "content": "Sabar banget ya kamu menghadapinya. Kalau digituin lagi, kira-kira mau coba ditegur halus atau didiemin aja?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tim kerjaku hobi banget lempar-lemparan masalah waktu proyeknya gagal."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, nggak ada yang mau sportif tanggung jawab ya kalau lagi ada masalah. Kamu ikut kena getahnya juga?"
+      },
+      {
+        "role": "user",
+        "content": "Iya, aku yang dipanggil bos sendirian buat disuruh jelasin semuanya padahal itu kesalahan tim."
+      },
+      {
+        "role": "model",
+        "content": "Rasanya pasti tidak adil banget ya diposisikan kayak gitu sendirian. Kamu sudah jelaskan ke bos yang sebenarnya terjadi?"
+      },
+      {
+        "role": "user",
+        "content": "Sudah, tapi bos sepertinya lebih percaya sama laporan dari ketua tim."
+      },
+      {
+        "role": "model",
+        "content": "Situasi yang bikin frustrasi banget ya karena suaralu kurang didengar. Tarik napas dulu yang dalam ya biar nggak terlalu beban."
+      }
+    ]
+  }
+]

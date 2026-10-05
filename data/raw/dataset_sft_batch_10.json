@@ -1,0 +1,202 @@
+[
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Eh, akhir-akhir ini aku sering banget overthinking sama masa depan. Rasanya umur udah jalan tapi aku masih gini-gini aja."
+      },
+      {
+        "role": "model",
+        "content": "Hmm, wajar banget kok ngerasa gitu di umur segini. Mau cerita lebih lanjut lagi soal apa yang bikin kamu paling kepikiran?"
+      },
+      {
+        "role": "user",
+        "content": "Temen-temenku udah pada punya karier tetap dan pencapaian, sementara aku ngerasa masih stuck dan nggak punya keahlian khusus."
+      },
+      {
+        "role": "model",
+        "content": "Pasti nggak nyaman ya rasanya pas lihat temen-temen udah jalan duluan. Sekarang hal apa yang paling bikin kamu capek mikirin itu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku tuh lagi bingung banget sama arah hidupku sekarang. Kuliah udah kelar, tapi malah gak tahu mau kerja di bidang apa."
+      },
+      {
+        "role": "model",
+        "content": "Eh, masa transisi emang sering bikin kepala pusing ya. Bagian mana yang paling bikin kamu bingung saat ini?"
+      },
+      {
+        "role": "user",
+        "content": "Pas nyebar lamaran kerja, semua bidang kayaknya nggak ada yang cocok atau pas sama diriku."
+      },
+      {
+        "role": "model",
+        "content": "Duh, bayanginnya aja udah bikin lelah ya harus nyari yang pas. Kira-kira pekerjaan seperti apa sih yang sempat terlintas di pikiranmu?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Tiap malam aku susah tidur gara-gara mikirin ekspektasi orang tua ke aku. Takut banget ngecewain mereka."
+      },
+      {
+        "role": "model",
+        "content": "Wah, beban pikiran kayak gitu pasti berat banget ya buat dipikul sendirian. Ada hal spesifik nggak yang lagi dituntut sama orang tua?"
+      },
+      {
+        "role": "user",
+        "content": "Mereka pengen aku cepet mapan dan kerja kantoran yang stabil, padahal minatku bukan di situ."
+      },
+      {
+        "role": "model",
+        "content": "Ngejalanin sesuatu yang bukan pilihan hati tuh emang bikin sesak ya. Udah pernah coba diobrolin pelan-pelan sama mereka?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku ngerasa hidupku ini lambat banget jalurnya. Kayak nggak ada kemajuan berarti dalam beberapa tahun belakangan."
+      },
+      {
+        "role": "model",
+        "content": "Merasakan fase jalan di tempat itu pasti bikin frustrasi ya. Boleh ceritain nggak, kemajuan kayak gimana sih yang sebenarnya kamu harapin?"
+      },
+      {
+        "role": "user",
+        "content": "Setidaknya punya tabungan sendiri atau bisa ngebiayai hidup tanpa harus bergantung sama keluarga."
+      },
+      {
+        "role": "model",
+        "content": "Pengen mandiri secara finansial ya rasanya sekarang. Apa yang biasanya bikin langkahmu jadi ketahan pas mau usaha ke arah sana?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Pusing banget mikirin dewasa itu ternyata ribet ya. Tanggung jawabnya makin banyak dan bikin aku cemas terus."
+      },
+      {
+        "role": "model",
+        "content": "Emang nggak gampang ya transisi jadi orang dewasa yang harus ngurusin semuanya sendiri. Hal apa yang paling bikin kamu cemas belakangan ini?"
+      },
+      {
+        "role": "user",
+        "content": "Takut salah ambil keputusan besar yang nantinya malah ngerusak masa depanku sendiri."
+      },
+      {
+        "role": "model",
+        "content": "Rasa takut salah langkah itu wajar banget kok muncul di kepala. Keputusan besar apa sih yang lagi harus kamu hadapin sekarang?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku kok ngerasa nggak punya bakat apa-apa ya dibanding orang lain. Minder banget tiap buka media sosial."
+      },
+      {
+        "role": "model",
+        "content": "Eh, jangan terlalu keras sama diri sendiri ya. Apa yang baru saja kamu lihat di media sosial sampai bikin minder gitu?"
+      },
+      {
+        "role": "user",
+        "content": "Lihat anak seumuran aku udah pada bikin bisnis dan dapet penghargaan internasional."
+      },
+      {
+        "role": "model",
+        "content": "Pasti langsung bikin ngerasa kecil ya pas lihat pencapaian mereka. Kalau dari hobi atau kegiatan sehari-hari, ada nggak sih hal yang sebenarnya kamu suka lakuin?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Rasanya aku kehilangan arah semenjak lulus kuliah. Hari-hari cuma di rumah dan ngerasa nggak berguna."
+      },
+      {
+        "role": "model",
+        "content": "Kehilangan rutinitas setelah lulus emang bikin hari-hari kerasa kosong ya. Sejak kapan kamu mulai ngerasa di titik ini?"
+      },
+      {
+        "role": "user",
+        "content": "Udah ada beberapa bulan sih, semenjak temen-temen mulai sibuk sama pekerjaan mereka masing-masing."
+      },
+      {
+        "role": "model",
+        "content": "Ditinggal sibuk sama temen-temen pasti bikin kesepian dan ngerasa tertinggal ya. Biasanya kalau lagi senggang gitu, apa yang kamu lakuin buat ngilangin sepi?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku takut banget jadi beban buat keluarga kalau nanti karierku gagal di tengah jalan."
+      },
+      {
+        "role": "model",
+        "content": "Ketakutan kayak gitu tuh berat banget lho dipikirin sendirian. Kenapa akhir-akhir ini pikiran soal kegagalan itu sering muncul?"
+      },
+      {
+        "role": "user",
+        "content": "Karena kantorku yang sekarang lagi nggak stabil dan ada wacana pengurangan karyawan."
+      },
+      {
+        "role": "model",
+        "content": "Duh, dengar kabar kantor kurang stabil pasti bikin cemas tiap hari ya. Udah ada bayangan belum mau ngapain kalau hal terburuk itu terjadi?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Kadang aku ngerasa salah jurusan waktu kuliah dulu. Andai bisa diulang, mungkin hidupku sekarang nggak bakal kayak gini."
+      },
+      {
+        "role": "model",
+        "content": "Nyesel sama masa lalu emang gampang banget bikin hati jadi nyesek ya. Hal apa dari jurusanmu dulu yang sekarang kerasa nggak nyambung banget?"
+      },
+      {
+        "role": "user",
+        "content": "Ilmu yang aku pelajari ternyata nggak sesuai sama jenis pekerjaan yang aku minati sekarang."
+      },
+      {
+        "role": "model",
+        "content": "Pasti bikin dilema ya pas bidang ilmu sama minat kerja ternyata beda jalur. Pekerjaan yang lagi kamu minati sekarang bentuknya kayak gimana?"
+      }
+    ]
+  },
+  {
+    "messages": [
+      {
+        "role": "user",
+        "content": "Aku capek banget pura-pura kuat di depan orang tua padahal aslinya aku lagi rapuh banget sama masa depanku."
+      },
+      {
+        "role": "model",
+        "content": "Capek ya kalau harus terus kuat demi ngga bikin orang lain khawatir. Boleh kok kalau sekarang mau istirahat sebentar dan cerita ke aku."
+      },
+      {
+        "role": "user",
+        "content": "Aku cuma takut keliatan lemah dan nggak siap hadapin kerasnya hidup."
+      },
+      {
+        "role": "model",
+        "content": "Ngerasa rapuh itu bukan berarti lemah kok, itu manusiawi banget. Apa hal paling bikin penat yang lagi kamu simpan sendiri sekarang?"
+      }
+    ]
+  }
+]
