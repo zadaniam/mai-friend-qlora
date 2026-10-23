@@ -32,7 +32,7 @@ jobs:
       run: |
         uv sync --dev
 
-    # 4. Jalankan pengujian otomatis (Unit Tests & Integration/Smoke Test)
-    - name: Run Automated Tests
+    # 4. Jalankan pengujian otomatis dengan penegakan batasan Test Coverage
+    - name: Run Automated Tests with Coverage
       run: |
-        FORCE_CPU="true" uv run pytest
+        FORCE_CPU="true" uv run pytest --cov=src tests/unit --cov-report=xml --cov-fail-under=80
