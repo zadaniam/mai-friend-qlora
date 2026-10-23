@@ -1,6 +1,6 @@
-import os
 import sys
 from pathlib import Path
+
 import pytest
 
 # Pastikan Python bisa menemukan folder /src dari folder root
@@ -9,6 +9,7 @@ sys.path.append(str(Path(__file__).resolve().parent.parent.parent))
 # --- PERBAIKAN DI SINI: Sesuaikan jalur impor config ke subfolder training ---
 from src.training import config
 from src.training.train import main
+
 
 def test_pipeline_training_smoke(monkeypatch, tmp_path):
     """

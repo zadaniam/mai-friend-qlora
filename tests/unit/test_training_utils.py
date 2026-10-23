@@ -1,7 +1,8 @@
 # tests/unit/test_utils.py
-import pytest
 from transformers import AutoTokenizer
+
 from src.training.utils import format_chat_template
+
 
 def test_format_chat_template():
     # PERUBAHAN DI SINI: Gunakan tokenizer Qwen2/2.5 versi tiny agar serasi

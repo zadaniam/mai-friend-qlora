@@ -1,8 +1,9 @@
 import json
 import os
-import pytest
-from unittest.mock import MagicMock, patch, mock_open
+from unittest.mock import MagicMock, mock_open, patch
+
 from src.data.process_dataset import merge_and_format_datasets
+
 
 @patch("src.data.process_dataset.os.path.exists")
 @patch("src.data.process_dataset.os.makedirs")

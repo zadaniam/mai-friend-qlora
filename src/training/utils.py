@@ -1,7 +1,9 @@
 # src/utils.py
 import os
+
 import torch
 from transformers import BitsAndBytesConfig
+
 
 def format_chat_template(batch, tokenizer):
     formatted_texts = []

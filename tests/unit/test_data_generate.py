@@ -1,8 +1,10 @@
 import json
 import os
+from unittest.mock import MagicMock, mock_open, patch
+
 import pytest
-from unittest.mock import MagicMock, patch, mock_open
-from src.data.generate_dataset import load_prompts, run_generation, DatasetResponse
+
+from src.data.generate_dataset import DatasetResponse, load_prompts, run_generation
 
 # ==============================================================================
 # 1. UNIT TEST: FUNGSI `load_prompts` (Menguji Logika File I/O & Parsing Data)

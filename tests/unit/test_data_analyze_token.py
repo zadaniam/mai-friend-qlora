@@ -1,7 +1,6 @@
 import json
-import os
-import pytest
-from unittest.mock import MagicMock, patch, mock_open
+from unittest.mock import MagicMock, mock_open, patch
+
 from src.data.analyze_token import analyze_dataset_sequence_length
 
 # ==============================================================================
