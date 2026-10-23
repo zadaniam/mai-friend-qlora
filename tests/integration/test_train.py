@@ -1,8 +1,6 @@
 import sys
 from pathlib import Path
 
-import pytest
-
 # Pastikan Python bisa menemukan folder /src dari folder root
 sys.path.append(str(Path(__file__).resolve().parent.parent.parent))
 
@@ -28,12 +26,8 @@ def test_pipeline_training_smoke(monkeypatch, tmp_path):
 
     success = False
     
-    # 4. Jalankan fungsi utama training
-    try:
-        main()
-        success = True
-    except Exception as e:
-        pytest.fail(f"Pipeline training gagal memicu error: {e}")
+    # 4. Jalankan fungsi utama training secara langsung
+    main()
 
     # 5. Verifikasi akhir
     assert success is True

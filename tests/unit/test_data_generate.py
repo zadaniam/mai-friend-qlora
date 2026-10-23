@@ -33,9 +33,8 @@ def test_load_prompts_success_with_list_general():
 
 def test_load_prompts_file_not_found():
     """Menguji apakah fungsi melempar FileNotFoundError jika file tidak eksis."""
-    with patch("os.path.exists", return_value=False):
-        with pytest.raises(FileNotFoundError):
-            load_prompts("data/non_existent_file.json")
+    with patch("os.path.exists", return_value=False), pytest.raises(FileNotFoundError):
+        load_prompts("data/non_existent_file.json")
 
 
 # ==============================================================================
@@ -88,7 +87,7 @@ def test_run_generation_success(mock_genai_client, mock_sleep, mock_makedirs, mo
         
         # 2. Pastikan API Gemini dipanggil dengan parameter yang benar (Model & Skema Pydantic)
         mock_client_instance.models.generate_content.assert_called_once()
-        called_args, called_kwargs = mock_client_instance.models.generate_content.call_args
+        _called_args, called_kwargs = mock_client_instance.models.generate_content.call_args
         
         assert called_kwargs['model'] == 'gemini-3.5-flash-lite'
         assert called_kwargs['config'].response_schema == DatasetResponse
