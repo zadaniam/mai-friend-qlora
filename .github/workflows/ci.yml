@@ -35,4 +35,4 @@ jobs:
     # 4. Jalankan pengujian otomatis dengan penegakan batasan Test Coverage
     - name: Run Automated Tests with Coverage
       run: |
-        FORCE_CPU="true" uv run pytest --cov=src tests/unit --cov-report=xml --cov-fail-under=80
+        FORCE_CPU="true" uv run pytest --cov=src --cov-report=xml --cov-fail-under=80
