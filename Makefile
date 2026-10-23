@@ -43,7 +43,12 @@ test-integration:
 
 train:
 	# Menjalankan training di dalam lingkungan terisolasi .venv milik uv
-	uv run python -m src.train
+	uv run python -m src.training.train
 
 clean:
-	rm -rf .venv .uv .pytest_cache tests/__pycache__ src/__pycache__
+	# Menghapus folder cache perkakas spesifik di root folder
+	rm -rf .uv .pytest_cache .ruff_cache
+	# Menghapus semua folder __pycache__ di subfolder mana pun secara otomatis
+	find . -type d -name "__pycache__" -exec rm -rf {} +
+	# (Opsional) Menghapus semua file bytecode Python terisolasi jika ada
+	find . -type f -name "*.pyc" -delete
