@@ -23,11 +23,6 @@ def test_pipeline_training_smoke(monkeypatch, tmp_path):
     # 3. Lakukan monkeypatch pada objek modul config yang sudah di-import dengan benar
     monkeypatch.setattr(config, "OUTPUT_DIR", str(output_dir))
     monkeypatch.setattr(config, "EPOCHS", 1)  # Cukup 1 epoch untuk tes cepat
-
-    success = False
     
     # 4. Jalankan fungsi utama training secara langsung
     main()
-
-    # 5. Verifikasi akhir
-    assert success is True

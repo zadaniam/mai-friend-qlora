@@ -21,3 +21,5 @@ results/
 .vscode/
 .idea/
 .DS_Store
+.ruff_cache/
+.coverage
