@@ -75,8 +75,10 @@ def merge_and_format_datasets(input_dir: str, output_file: str, num_batches: int
 
         print(f"\n🎉 Selesai! File final siap pakai disimpan di: {output_file}")
 
-    except Exception as e:
-        print(f"❌ Gagal menyimpan file output final: {e}")
+    except OSError as e:
+        print(f"❌ Gagal menyimpan file karena masalah sistem/koneksi disk: {e}")
+    except (KeyError, TypeError) as e:
+        print(f"❌ Gagal memproses struktur data SFT (Format salah): {e}")
 
 
 if __name__ == "__main__":

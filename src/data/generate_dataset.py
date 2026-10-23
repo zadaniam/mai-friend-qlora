@@ -5,6 +5,7 @@ import time
 from dotenv import load_dotenv
 from google import genai
 from google.genai import types
+from google.genai.errors import APIError
 from pydantic import BaseModel, Field
 
 # ==========================================
@@ -64,8 +65,8 @@ def run_generation(prompt_file: str, output_dir: str):
     try:
         prompt_general, prompt_batch_spesifik = load_prompts(prompt_file)
         print("-> Berhasil memuat prompt templates.")
-    except Exception as e:
-        print(f"-> Gagal memuat prompt: {e}")
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"-> Gagal memuat prompt karena kesalahan file/format: {e}")
         return
 
     # Inisialisasi Gemini Client (memasukkan API key secara otomatis dari .env)
@@ -114,8 +115,8 @@ def run_generation(prompt_file: str, output_dir: str):
             )
             all_synthetic_data.extend(batch_data)
 
-        except Exception as e:
-            print(f"   ✗ Gagal pada Batch {index} karena error: {e}")
+        except (APIError, json.JSONDecodeError, OSError) as e:
+            print(f"   ✗ Gagal pada Batch {index} karena error spesifik: {e}")
 
         # Jeda anti-rate limit
         if index < len(prompt_batch_spesifik):
