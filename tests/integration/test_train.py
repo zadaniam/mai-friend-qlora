@@ -16,13 +16,13 @@ def test_pipeline_training_smoke(monkeypatch, tmp_path):
     """
     # 1. Gunakan folder sementara agar tidak mengotori komputer lokal Anda
     output_dir = tmp_path / "test-training-results"
-    
+
     # 2. Paksa konfigurasi agar berjalan di mode CPU
     monkeypatch.setenv("FORCE_CPU", "true")
-    
+
     # 3. Lakukan monkeypatch pada objek modul config yang sudah di-import dengan benar
     monkeypatch.setattr(config, "OUTPUT_DIR", str(output_dir))
     monkeypatch.setattr(config, "EPOCHS", 1)  # Cukup 1 epoch untuk tes cepat
-    
+
     # 4. Jalankan fungsi utama training secara langsung
     main()
