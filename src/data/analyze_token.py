@@ -4,8 +4,10 @@ import os
 import numpy as np
 from transformers import AutoTokenizer
 
+from src.config import FINAL_DATASET_PATH
+
 # Konfigurasi Path & Model Bawaan
-DATA_PATH = os.path.join("data", "processed", "dataset_sft_final_ready.jsonl")
+DATA_PATH = FINAL_DATASET_PATH
 MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
 
 

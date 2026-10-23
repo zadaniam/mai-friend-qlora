@@ -1,28 +1,23 @@
 import os
-from pathlib import Path
 
-# ==============================================================================
-# 1. DIREKTORI & JALUR FILE (PATH CONFIGURATION)
-# ==============================================================================
-# Deteksi otomatis folder root proyek secara dinamis (__file__ ada di /src)
-ROOT_DIR = Path(__file__).resolve().parent.parent.parent
+from src.config import (
+    FINAL_DATASET_PATH,
+    OUTPUT_DIR
+)
 
-# Jalur folder lokal
-DATA_RAW_DIR = ROOT_DIR / "data" / "raw"
-DATA_PROCESSED_DIR = ROOT_DIR / "data" / "processed"
-OUTPUT_DIR = str(ROOT_DIR / "training-results")
+# Path (diimpor dari src.config)
+DATA_PATH = str(FINAL_DATASET_PATH)
 
 # Deteksi Jalur Dataset Otomatis (Kaggle vs Lokal/CI)
 KAGGLE_PATH = "/kaggle/input/datasets/zadaniammusthofa/dataset-qlora/dataset_sft_final_ready.jsonl"
-LOCAL_PATH = DATA_PROCESSED_DIR / "dataset_sft_final_ready.jsonl"
-
-# Pilih jalur yang aktif dan ubah ke string agar kompatibel dengan library HF
-ACTIVE_PATH = KAGGLE_PATH if os.path.exists(KAGGLE_PATH) else LOCAL_PATH
+ACTIVE_PATH = KAGGLE_PATH if os.path.exists(KAGGLE_PATH) else DATA_PATH
 DATA_PATH = str(ACTIVE_PATH)
 
+# Jalur untuk output train.py & smoke test
+OUTPUT_DIR = str(OUTPUT_DIR)
 
 # ==============================================================================
-# 2. KONFIGURASI MODEL & HYPERPARAMETERS (Untuk 100 Data Sintetis)
+# KONFIGURASI MODEL & HYPERPARAMETERS (Untuk 100 Data Sintetis)
 # ==============================================================================
 MODEL_ID = "Qwen/Qwen2.5-7B-Instruct"
 

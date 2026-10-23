@@ -8,11 +8,13 @@ from google.genai import types
 from google.genai.errors import APIError
 from pydantic import BaseModel, Field
 
+from src.config import RAW_DIR, SEED_PROMPTS_PATH
+
 # ==========================================
 # CONFIGURATION / PATH CONSTANTS
 # ==========================================
-PROMPT_PATH = os.path.join("data", "generation", "seed_prompts.json")
-RAW_OUTPUT_DIR = os.path.join("data", "raws")
+PROMPT_PATH = SEED_PROMPTS_PATH
+RAW_OUTPUT_DIR = RAW_DIR
 
 
 # 1. Skema Output Pydantic

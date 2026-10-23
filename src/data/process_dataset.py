@@ -2,13 +2,15 @@ import json
 import os
 import random
 
+from src.config import FINAL_DATASET_PATH, RAW_DIR
+
 # ==========================================
 # CONFIGURATION / PATH CONSTANTS
 # ==========================================
 # Folder tempat batch JSON disimpan (sesuai output generator sebelumnya)
-INPUT_DIR = os.path.join("data", "raw")
+INPUT_DIR = RAW_DIR
 # Lokasi file output final (.jsonl)
-OUTPUT_FILE = os.path.join("data", "processed", "dataset_sft_final_ready.jsonl")
+OUTPUT_FILE = FINAL_DATASET_PATH
 
 
 def merge_and_format_datasets(input_dir: str, output_file: str, num_batches: int = 10):
